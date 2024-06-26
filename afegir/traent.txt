@@ -1,0 +1,2726 @@
+Cai	k 'a j
+Gai	g 'a j
+ain	'a j n
+air	a 'i
+ais	'a j s
+bai	b 'a j
+cai	k 'a j
+dai	d 'a j
+Aiac	a j 'a k
+Aida	'a j ð a
+Aiet	a j 'e t
+Aina	'a j n a
+Baió	b a j 'o
+Blai	b l 'a j
+Brai	b ɾ 'a j
+Daia	d 'a j a
+Faió	f a j 'o
+Gaia	g a 'i a
+Gaià	g a j 'a
+Laia	l 'a j a
+Maià	m a j 'a
+Raió	r a j 'o
+Suai	s u 'a j
+Taià	t a j 'a
+aida	'a j ð a
+aide	'a j ð e
+aidi	'a j ð i
+aido	'a j ð o
+aidà	a j ð 'a
+aidí	a j ð 'i
+aill	'a j ʎ
+aimó	a j m 'o
+aina	'a j n a
+aine	'a j n e
+aini	'a j n i
+aino	'a j n o
+ains	'a j n s
+ainu	'a j n u
+aira	'a j ɾ a
+aire	'a j ɾ e
+airi	'a j ɾ i
+airo	'a j ɾ o
+airí	a j ɾ 'i
+aius	'a j u s
+aiús	a j 'u s
+baia	b 'a j a
+bais	b 'a j s
+caic	k 'a j k
+caid	k 'a j i
+cair	k a 'i
+cais	k 'a j s
+daic	d 'a j k
+duai	d u 'a j
+Acaia	a k 'a j a
+Aiats	a j 'a t s
+Aielo	a j 'ɛ l o
+Aimar	a i m 'a
+Aimat	a i m 'a t
+Aiora	a j 'o ɾ a
+Aiter	a i t 'e
+Albai	a l β 'a j
+Altai	a l t 'a j
+Baila	b 'a j l a
+Bailó	b a j l 'o
+Baiés	b a j 'e s
+Blaia	b l 'a j a
+Blair	b l a 'i
+Bonai	b o n 'a j
+Cailà	k a j l 'a
+Caire	k 'a j ɾ e
+Cairó	k a j ɾ 'o
+Caius	k 'a j u s
+Daidí	d a j ð 'i
+Dubai	d u β 'a j
+Dusai	d u z 'a j
+Faium	f a j 'u m
+Gaiet	g a j 'e t
+Gaiol	g a j 'ɔ l
+Haití	a i t 'i
+Judai	dʒ u ð 'a j
+Pairà	p a j ɾ 'a
+Pelai	p e l 'a j
+Perai	p e ɾ 'a j
+Plaià	p l a j 'a
+Praia	p ɾ 'a j a
+Raier	r a j 'e
+Raimí	r a j m 'i
+Saidí	s a j ð 'i
+Saier	s a j 'e
+Saint	s a 'i n
+Sainz	s 'a j n i
+Twain	a 'a j n
+Velai	b e l 'a j
+Verai	b e ɾ 'a j
+Zaire	z 'a j ɾ e
+adlai	a d l 'a j
+afait	a f 'a j t
+agrai	a ɣ ɾ 'a j
+ai-ai	a j 'a j
+aidam	a i ð 'a m
+aidar	a i ð 'a
+aidas	'a j ð a s
+aidat	a i ð 'a t
+aidau	a i ð 'a u
+aidem	a j ð 'e m
+aiden	'a j ð e n
+aides	'a j ð e s
+aideu	a j ð e 'u
+aidin	'a j ð i n
+aidis	'a j ð i s
+aidés	a j ð 'e s
+aielí	a j e l 'i
+ailla	'a j ʎ a
+aille	'a j ʎ e
+ailli	'a j ʎ i
+aillo	'a j ʎ o
+ailàs	a j l 'a s
+aimia	a i m 'i a
+ainam	a i n 'a m
+ainar	a i n 'a
+ainas	'a j n a s
+ainat	a i n 'a t
+ainau	a i n 'a u
+ainem	a i n 'e m
+ainen	'a j n e n
+aines	'a j n e s
+aineu	a j n e 'u
+ainin	'a j n i n
+ainis	'a j n i s
+ainus	'a j n u s
+aiodà	a j o ð 'a
+aiorí	a j o ɾ 'i
+airam	a i ɾ 'a m
+airar	a i ɾ 'a
+airas	'a j ɾ a s
+airat	a i ɾ 'a t
+airau	a i ɾ 'a u
+airem	a j ɾ 'e m
+airen	'a j ɾ e n
+aires	'a j ɾ e s
+airet	a i ɾ 'e t
+aireu	a j ɾ e 'u
+airin	'a j ɾ i n
+airis	'a j ɾ i s
+airol	a j ɾ 'ɔ l
+airos	'a j ɾ o s
+airot	a j ɾ 'ɔ t
+airós	a j ɾ 'o s
+aital	a i t 'a l
+aitan	a i t 'a n
+aitna	'a j t n a
+amain	'a m a i n
+anaia	a n a 'i a
+argai	a ɾ ɣ 'a j
+baiar	b a j 'a
+baier	b a j 'e
+baies	b 'a j e s
+baila	b 'a j l a
+baina	b 'a j n a
+bains	b 'a j n s
+baiós	b a j 'o s
+belai	b e l 'a j
+caiac	k a j 'a k
+caids	k 'a j i s
+caiem	k a j 'e m
+caieu	k a j e 'u
+cains	k 'a j n s
+caiot	k a j 'ɔ t
+caira	k 'a j ɾ a
+caire	k 'a j ɾ e
+cairi	k 'a j ɾ i
+cairo	k 'a j ɾ o
+cairs	k a 'i s
+cairà	k a j ɾ 'a
+cairí	k a j ɾ 'i
+carai	k a ɾ 'a j
+chain	s u i n
+clair	k l a 'i
+cobai	k o β 'a j
+colai	k o l 'a j
+daica	d 'a j k a
+daics	d 'a j k s
+daina	d 'a j n a
+dairi	d 'a j ɾ i
+dalai	d a l 'a j
+dawai	d a β 'a j
+desai	d e z 'a j
+dovai	d o β 'a j
+duais	d u 'a j s
+Adonai	a ð o n 'a j
+Aibert	a j β 'ɛ t
+Aicard	a i k 'a ɾ i
+Aimamí	a j m a m 'i
+Aitana	a i t 'a n a
+Aitona	a i t 'o n a
+Aiòder	a j 'ɔ ð e
+Alaior	a l a j 'o
+Albaià	a l β a j 'a
+Aldaia	a l d a 'i a
+Altaió	a l t a j 'o
+Baikal	b a i k 'a l
+Bailac	b a i l 'a k
+Bailén	b a i l 'e n
+Bombai	b o m b 'a j
+Braida	b ɾ 'a j ð a
+Caicos	k 'a j k o s
+Caifàs	k a j f 'a s
+Clairà	k l a j ɾ 'a
+Daider	d a i ð 'e
+Daimús	d a j m 'u s
+Fraile	f ɾ 'a j l e
+Gaiamí	g a i a m 'i
+Gaiell	g a i 'e ʎ
+Gaieta	g a j 'e t a
+Gaietà	g a i e t 'a
+Gaiolà	g a i o l 'a
+Gairal	g a i ɾ 'a l
+Guaita	g w a 'i t a
+Haider	a i ð 'e
+Hainan	a i n 'a n
+Hawaii	a ɾ a i i
+Kuwait	k u ɾ 'a j t
+Lairet	l a j ɾ 'e t
+Maials	m a j 'a l s
+Maians	m a j 'a n s
+Maicas	m 'a j k a s
+Maimir	m a i m 'i
+Mainal	m a i n 'a l
+Mainar	m a i n 'a
+Mainer	m a i n 'e
+Malaia	m a l a 'i a
+Raimat	r a i m 'a t
+Raimon	r a i m 'o n
+Rainer	r a i n 'e
+Raspai	r a s p 'a j
+Saiola	s a j 'ɔ l a
+Taialà	t a j a l 'a
+Tainer	t a i n 'e
+Taipei	t a i p 'ɛ i
+Taiwan	t a i w 'a n
+Talaia	t a l a 'i a
+Tubuai	t u β u 'a j
+Vailet	b a j l 'e t
+Valais	b a l 'a j s
+Viaina	b i 'a j n a
+abebai	a β e β 'a j
+afaita	a f 'a j t a
+afaite	a f 'a j t e
+afaiti	a f 'a j t i
+afaito	a f 'a j t o
+afaits	a f a 'i t s
+afaità	a f a j t 'a
+afaití	a f a j t 'i
+agraia	a ɣ ɾ a 'i a
+agraim	a ɣ ɾ 'a j m
+agrair	a ɣ ɾ a 'i
+agrais	a ɣ ɾ 'a j s
+agrait	a ɣ ɾ 'a j t
+agraiu	a ɣ ɾ a i 'u
+aguait	a ɣ u 'a j t
+ai-ais	a j 'a j s
+aidada	a i ð 'a ð a
+aidant	a i ð 'a n
+aidara	a i ð 'a ɾ a
+aidare	a i ð 'a ɾ e
+aidarà	a j ð a ɾ 'a
+aidaré	a j ð a ɾ 'e
+aidats	a i ð 'a t s
+aidava	a i ð 'a β a
+aikido	a j ʃ 'i ð o
+ailant	a i l 'a n
+aillam	a i ʎ 'a m
+aillar	a i ʎ 'a
+aillas	a i ʎ 'a s
+aillat	a i ʎ 'a t
+aillau	a i ʎ 'a u
+aillem	a j ʎ 'e m
+aillen	'a j ʎ e n
+ailles	'a j ʎ e s
+ailleu	a j ʎ e 'u
+aillin	'a j ʎ i n
+aillis	'a j ʎ i s
+aimada	a i m 'a ð a
+aimara	a i m 'a ɾ a
+aimies	a i m 'i e s
+aimina	a i m 'i n a
+ainada	a i n 'a ð a
+ainant	a i n 'a n
+ainara	a i n 'a ɾ a
+ainare	a i n 'a ɾ e
+ainats	a i n 'a t s
+ainava	a i n 'a β a
+ainuid	a i n 'u j i
+aioder	a j o ð 'e
+airada	a i ɾ 'a ð a
+airant	a i ɾ 'a n
+airara	a i ɾ 'a ɾ a
+airare	a i ɾ 'a ɾ e
+airats	a i ɾ 'a t s
+airava	a i ɾ 'a β a
+airbag	a j ɾ β 'a
+airege	a j ɾ 'ɛ ʒ e
+airegi	a j ɾ 'ɛ ʒ i
+airegí	a j ɾ e ʒ 'i
+aireig	a i ɾ 'e tʃ
+aireja	a i ɾ 'e ʒ a
+airejo	a j ɾ 'ɛ ʒ o
+airejà	a j ɾ e ʒ 'a
+airets	a i ɾ 'e t s
+airina	a i ɾ 'i n a
+airins	a i ɾ 'i n s
+airosa	a j ɾ 'o z a
+airots	a j ɾ 'ɔ t s
+aitals	a i t 'a l s
+aitant	a i t 'a n
+aiusos	a j 'u z o s
+ajaiem	a ʒ a j 'e m
+ajaieu	a ʒ a j e 'u
+alcaic	a l k 'a j k
+alcaid	a l k 'a j i
+altaic	a l t 'a j k
+amaina	a m 'a j n a
+amaine	a m 'a j n e
+amaini	a m 'a j n i
+amaino	a m 'a j n o
+amainà	a m a j n 'a
+amainí	a m a j n 'i
+amainó	a m a j n 'o
+anaies	a n a 'i e s
+araire	a ɾ 'a j ɾ e
+araiós	a ɾ a j 'o s
+arcaic	a ɾ k 'a j k
+argais	a ɾ ɣ 'a j s
+arraia	a r a 'i a
+arraim	a r 'a j m
+arrais	a r 'a j s
+arraià	a r a j 'a
+assain	'a s a j n
+atalai	a t a l 'a j
+babaia	b a β 'a j a
+baiard	b a j 'a j
+baieta	b a j 'e t a
+baieto	b a j 'ɛ t o
+baietó	b a j e t 'o
+bailes	b 'a j l e s
+bailon	b a i l 'o n
+bainer	b a i n 'e
+baines	b 'a j n e s
+baiona	b a j 'o n a
+baions	b a j 'o n s
+baiosa	b a j 'o s a
+balair	b a l a 'i
+banzai	b a n z 'a j
+belaia	b e l a 'i a
+belais	b e l 'a j s
+bilbai	b i l β 'a j
+bisaia	b i z a 'i a
+biscai	b i s k 'a j
+blaise	b l a 'i z e
+bonsai	b o n s 'a j
+bonzai	b o n z 'a j
+braire	b ɾ 'a j ɾ e
+caiacs	k a j 'a k s
+caiena	k a j 'e n a
+caient	k a j 'e n
+caiman	k a i m 'a n
+caiola	k a j 'ɔ l a
+caiots	k a j 'ɔ t s
+cairam	k a j ɾ 'a m
+cairar	k a j ɾ 'a
+cairas	k 'a j ɾ a s
+cairat	k a j ɾ 'a t
+cairau	k a j ɾ 'a u
+cairem	k a j ɾ 'e m
+cairen	k 'a j ɾ e n
+caires	k 'a j ɾ e s
+caireu	k a j ɾ e 'u
+cairin	k 'a j ɾ i n
+cairis	k 'a j ɾ i s
+cairon	k a j ɾ 'o n
+cairut	k a j ɾ 'u t
+cairés	k a j ɾ 'e s
+calais	k a l 'a j s
+carais	k a ɾ 'a j s
+cascai	k a s k 'a j
+celaia	s e l a 'i a
+chaise	k o 'i z e
+claire	k l 'a j ɾ e
+cobais	k o β 'a j s
+colais	k o l 'a j s
+daimio	d a i m 'i o
+daines	d 'a j n e s
+dairis	d 'a j ɾ i s
+decaic	d e k 'a j k
+desair	d e z a 'i
+desmai	d e z m 'a j
+douais	d o u 'a j s
+dufain	d u f 'a j n
+Aimarac	a j m a ɾ 'a k
+Alairac	a l a i ɾ 'a k
+Albaida	a l β 'a j ð a
+Alcaina	a l k 'a j n a
+Algaida	a l ɣ 'a j ð a
+Bahrain	b a 'ɔ a j n
+Baiazet	b a j a z 'e t
+Baikiri	b a j ʃ 'i ɾ i
+Bailina	b a i l 'i n a
+Balmain	b 'a l m a j n
+Baradai	b a ɾ a ð 'a j
+Bigaire	b i ɣ 'a j ɾ e
+Biscaia	b i s k 'a j a
+Bolbait	b o l β 'a j t
+Bonaire	b o n 'a j ɾ e
+Caimari	k a i m 'a ɾ i
+Cambrai	k a m b ɾ 'a j
+Clairac	k l a i ɾ 'a k
+Escaiol	a s k a j 'ɔ l
+Estaing	a s t 'a j ŋ
+Gaianes	g a i 'a n e s
+Gaibiel	g a j β i 'ɛ l
+Gairiui	g a i ɾ 'i i
+Guaiana	g w a j 'a n a
+Hendaia	e n d a 'i a
+Herraiz	e r 'a j i
+Jamaica	dʒ a m 'a j k a
+Llocaia	ʎ o k 'a j a
+Llogaia	ʎ o ɣ a 'i a
+Llombai	ʎ o m b 'a j
+Lovaina	l o β 'a j n a
+Maillol	m a j ʎ 'ɔ l
+Maiques	m 'a j k e s
+Mairata	m a i ɾ 'a t a
+Mikhail	m i k 'ɔ i l
+Montgai	m o n dʒ 'a j
+Moraira	m o ɾ 'a j ɾ a
+Nairobi	n a j ɾ 'ɔ β i
+Nicolai	n i k o l 'a j
+Nikolai	n i k o l 'a j
+Painous	p a i n o 'u s
+Pairacs	p a i ɾ 'a k s
+Paraire	p a ɾ 'a j ɾ e
+Rainier	r a i n i 'e
+Saieres	s a j 'e ɾ e s
+Shangai	s a ŋ g 'a j
+Sucaina	s u k 'a j n a
+Tebaida	t e β 'a j ð a
+Traiter	t ɾ a i t 'e
+Uruguai	u ɾ u ɣ u 'a j
+Zucaina	z u k 'a j n a
+abaione	a β a j 'ɔ n e
+abaioni	a β a j 'o n i
+abaiono	a β a j 'o n o
+abaionà	a β a j o n 'a
+abebais	a β e β 'a j s
+ablairé	a β l a j ɾ 'e
+acamaia	a k a m 'a j a
+afaitam	a f a j t 'a m
+afaitar	a f a i t 'a
+afaitas	a f 'a j t a s
+afaitat	a f a i t 'a t
+afaitau	a f a j t 'a u
+afaitem	a f a j t 'e m
+afaiten	a f 'a j t e n
+afaites	a f 'a j t e s
+afaiteu	a f a j t 'ɛ 'u
+afaitin	a f 'a j t i n
+afaitis	a f 'a j t i s
+afaités	a f a j t 'e s
+afaiçon	a f a i s 'o n
+affaire	a f f 'a j ɾ e
+agraida	a ɣ ɾ 'a j ð a
+agraiem	a ɣ ɾ a j 'e m
+agraien	a ɣ ɾ a 'i e n
+agraies	a ɣ ɾ a 'i e s
+agraieu	a ɣ ɾ a j e 'u
+agraint	a ɣ ɾ a 'i n
+agraira	a ɣ ɾ 'a j ɾ a
+agraire	a ɣ ɾ 'a j ɾ e
+agrairà	a ɣ ɾ a i ɾ 'a
+agrairé	a ɣ ɾ a j ɾ 'e
+agraisc	a ɣ ɾ 'a j s k
+agraits	a ɣ ɾ a 'i t s
+aguaita	a ɣ u a 'i t a
+aguaite	a ɣ u a 'i t e
+aguaiti	a ɣ u a 'i t i
+aguaito	a ɣ u a 'i t o
+aguaits	a ɣ u a 'i t s
+aguaità	a ɣ u a j t 'a
+aguaití	a ɣ u a j t 'i
+aguaitó	a ɣ u a j t 'o
+aidades	a i ð 'a ð e s
+aidaran	a j ð a ɾ 'a n
+aidaras	a i ð 'a ɾ a s
+aidarem	a j ð a ɾ 'e m
+aidaren	a i ð 'a ɾ e n
+aidares	a i ð 'a ɾ e s
+aidareu	a j ð a ɾ e 'u
+aidaria	a j ð a ɾ 'i a
+aidaràs	a j ð a ɾ 'a s
+aidavem	a j ð a β 'e m
+aidaven	a i ð 'a β e n
+aidaves	a i ð 'a β e s
+aidaveu	a j ð a β e 'u
+aidàrem	a i ð 'a ɾ e m
+aidàreu	a i ð 'a ɾ e u
+aidàvem	a i ð 'a β e m
+aidàveu	a i ð a β e 'u
+aielina	a j e l 'i n a
+aielins	a j e l 'i n s
+aikidos	a j ʃ 'i ð o s
+ailants	a i l 'a n s
+aillada	a i ʎ 'a ð a
+aillant	a i ʎ 'a n
+aillara	a i ʎ 'a ɾ a
+aillare	a i ʎ 'a ɾ e
+aillats	a i ʎ 'a t s
+aillava	a i ʎ 'a β a
+aimable	a i m 'a β l e
+aimador	a j m a ð 'o
+aimares	a i m 'a ɾ e s
+aimines	a i m 'i n e s
+ainades	a i n 'a ð e s
+ainaran	a j n a ɾ 'a n
+ainaras	a i n 'a ɾ a s
+ainarem	a j n a ɾ 'e m
+ainaren	a i n 'a ɾ e n
+ainares	a i n 'a ɾ e s
+ainareu	a j n a ɾ e 'u
+ainaria	a j n a ɾ 'i a
+ainavem	a j n a β 'e m
+ainaven	a i n 'a β e n
+ainaves	a i n 'a β e s
+ainaveu	a j n a β e 'u
+ainuida	a i n 'u j ð a
+ainuids	a i n 'u j i s
+aiodana	a j o ð 'a n a
+aiodera	a j o ð 'e ɾ a
+aioders	a j o ð 'e s
+aiorina	a j o ɾ 'i n a
+airades	a i ɾ 'a ð e s
+airaran	a j ɾ a ɾ 'a n
+airaras	a i ɾ 'a ɾ a s
+airarem	a j ɾ a ɾ 'e m
+airaren	a i ɾ 'a ɾ e n
+airares	a i ɾ 'a ɾ e s
+airareu	a j ɾ a ɾ e 'u
+airaria	a j ɾ a ɾ 'i a
+airavem	a j ɾ a β 'e m
+airaven	a i ɾ 'a β e n
+airaves	a i ɾ 'a β e s
+airaveu	a j ɾ a β e 'u
+airbags	a i b 'a s
+airecel	a j ɾ e s 'ɛ l
+airegem	a j ɾ e ʒ 'e m
+airegen	a j ɾ 'e dʒ e n
+aireges	a j ɾ 'ɛ ʒ e s
+airegeu	a j ɾ e ʒ e 'u
+airegin	a j ɾ 'ɛ ʒ i n
+airegis	a j ɾ 'ɛ ʒ i s
+airegés	a j ɾ e ʒ 'e s
+aireigs	a i ɾ 'e tʃ s
+airejam	a j ɾ e ʒ 'a m
+airejar	a j ɾ e ʒ 'a
+airejas	a j ɾ e ʒ 'a s
+airejat	a j ɾ e ʒ 'a t
+airejau	a j ɾ e ʒ 'a
+airejos	a j ɾ 'ɛ ʒ o s
+airejós	a j ɾ e ʒ 'o s
+airines	a i ɾ 'i n e s
+airivol	a j ɾ i β 'ɔ l
+airoses	a j ɾ 'o z e s
+airosos	a j ɾ 'o z o s
+airívol	a i ɾ 'i β o l
+aitambé	a j t a m b 'e
+aitants	a i t 'a n s
+aiubita	a j u β 'i t a
+aiúbida	a i 'u β i ð a
+ajaient	a ʒ a j 'e n
+alafaia	a l a f 'a j a
+albaiat	a l β a j 'a t
+albaidí	a l β a j ð 'i
+albaina	a l β 'a j n a
+alcaica	a l k 'a j k a
+alcaics	a l k 'a j k s
+alcaids	a l k 'a j i s
+aldaier	a l d a j 'e
+algaidí	a l ɣ a j ð 'i
+altaica	a l t 'a j k a
+altaics	a l t 'a j k s
+amainam	a m a i n 'a m
+amainar	a m a i n 'a
+amainas	a m 'a j n a s
+amainat	a m a i n 'a t
+amainau	a m a i n 'a u
+amainem	a m a j n 'e m
+amainen	a m 'a j n e n
+amaines	a m 'a j n e s
+amaineu	a m a j n e 'u
+amainin	a m 'a j n i n
+amainis	a m 'a j n i s
+amainés	a m a j n 'e s
+amaitín	a m a j t 'i n
+ansaire	a n s 'a j ɾ e
+apaisat	a p a i z 'a t
+apaivag	a p a i β 'a
+arcaica	a ɾ k 'a j k a
+arcaics	a ɾ k 'a j k s
+argaiar	a ɾ ɣ a j 'a
+arraima	a r 'a j m a
+arraime	a r 'a j m e
+arraimi	a r 'a j m i
+arraimo	a r 'a j m o
+artaire	a t 'a j ɾ e
+assaina	a s 'a j n a
+assaine	a s 'a j n e
+assaini	a s 'a j n i
+assaino	a s 'a j n o
+ataifor	a t a i f 'o
+atalaia	a t a l a 'i a
+atalaie	a t a l 'a j e
+atalain	a t a l 'a j n
+atalaio	a t a l 'a j o
+atalais	a t a l 'a j s
+atalaià	a t a l a j 'a
+atiaire	a t i a 'i ɾ e
+atraiem	a t ɾ a j 'e m
+atraieu	a t ɾ a j e 'u
+au-pair	a u p a 'i
+azelaic	a z e l 'a j k
+babaies	b a β a 'i e s
+bacaina	b a k 'a j n a
+bacairí	b a k a j ɾ 'i
+badaina	b a ð 'a j n a
+badaine	b a ð 'a j n e
+badaire	b a ð 'a j ɾ e
+baiards	b a j 'a ɾ i s
+baietes	b a j 'e t e s
+bailaor	b a j l a 'o
+bainers	b a i n 'e s
+baineta	b a i n 'e t a
+bainita	b a i n 'i t a
+baiocco	b a j 'ɔ k k o
+baiones	b a j 'o n e s
+baioses	b a j 'o s e s
+baiosos	b a j 'o z o s
+balaiar	b a l a j 'a
+becaina	b e k 'a j n a
+becaire	b e k 'a j ɾ e
+belaies	b e l a 'i e s
+benagai	b e n a ɣ 'a j
+besiaia	b e z i a 'i a
+besiaio	b e z i 'a j o
+bisaies	b i z a 'i e s
+bobtail	b o p t 'a j l
+bonsais	b o n s 'a j s
+bonzais	b o n z 'a j s
+braidar	b ɾ a i ð 'a
+braille	b ɾ 'a j ʎ e
+cagaire	k a ɣ a 'i ɾ e
+caients	k a j 'e n t s
+caimans	k a i m 'a n s
+caiment	k a i m 'e n
+cainita	k a j n 'i t a
+caioles	k a j 'ɔ l e s
+cairada	k a j ɾ 'a ð a
+cairant	k a j ɾ 'a n
+cairara	k a j ɾ 'a ɾ a
+cairare	k a j ɾ 'a ɾ e
+cairarà	k a j ɾ a ɾ 'a
+cairaré	k a j ɾ a ɾ 'e
+cairats	k a j ɾ 'a t s
+cairava	k a j ɾ 'a β a
+cairege	k a j ɾ 'ɛ ʒ e
+cairegi	k a j ɾ 'ɛ ʒ i
+cairegí	k a j ɾ e ʒ 'i
+caireig	k a j ɾ 'e tʃ
+caireja	k a j ɾ 'e ʒ a
+cairejo	k a j ɾ 'ɛ ʒ o
+cairejà	k a j ɾ e ʒ 'a
+cairell	k a j ɾ 'e ʎ
+cairenc	k a j ɾ 'e ŋ
+caireta	k a j ɾ 'e t a
+cairona	k a j ɾ 'o n a
+cairone	k a j ɾ 'ɔ n e
+caironi	k a j ɾ 'o n i
+cairono	k a j ɾ 'o n o
+cairons	k a j ɾ 'o n s
+caironà	k a j ɾ o n 'a
+caironí	k a j ɾ o n 'i
+cairota	k a j ɾ 'ɔ t a
+cairuda	k a j ɾ 'u ð a
+cairuts	k a j ɾ 'u t s
+caldaic	k a l d 'a j k
+cambrai	k a m b ɾ 'a j
+candrai	k a n d ɾ 'a j
+caraina	k a ɾ 'a j n a
+caraita	k a ɾ 'a j t a
+cataifa	k a t 'a j f a
+caçaire	k a s 'a j ɾ e
+chailan	k a i l 'a n
+claisen	k l 'a j z e n
+cocaina	k o k 'a j n a
+colaina	k o l 'a j n a
+contrai	k o n t ɾ 'a j
+copaiba	k o p a 'i β a
+copaier	k o p a j 'e
+cuairan	k u a i ɾ 'a n
+curraia	k u r a 'i a
+curraià	k u r a j 'a
+césaire	s 'e z a j ɾ e
+daimios	d a i m 'i o s
+daimler	d a i m l 'e
+daiques	d 'a j k e s
+danaide	d a n 'a j ð e
+davaine	d a β 'a j n e
+decaiem	d e k a j 'e m
+decaieu	d e k a j e 'u
+deltaic	d e l t 'a j k
+desaira	d e z 'a j ɾ a
+desaire	d e z a 'i ɾ e
+desairi	d e z 'a j ɾ i
+desairo	d e z 'a j ɾ o
+desairà	d e z a i ɾ 'a
+desairí	d e z a j ɾ 'i
+desmaia	d e z m 'a j a
+desmaie	d e z m 'a j e
+desmain	d e z m 'a j n
+desmaio	d e z m 'a j o
+desmais	d e z m 'a j s
+desmaià	d e z m a j 'a
+dromaid	d ɾ o m 'a j i
+drovais	d ɾ o β 'a j s
+e-mails	a m a 'i l s
+elbaita	e l β 'a j t a
+embabai	a m b a β 'a j
+embaiet	a m b a j 'e t
+Adelaida	a ð e l 'a j ð a
+Alboraia	a l β o ɾ a 'i a
+Alguaire	a l ɣ u a 'i ɾ e
+Araguaia	a ɾ a ɣ u a 'i a
+Bataille	b a t 'a j ʎ e
+Beauvais	b e a u β 'a j s
+Benifaió	b e n i f a j 'o
+Bolbaite	b o l β 'a j t e
+Caimaris	k a i m 'a ɾ i s
+Casasaia	k a z a z 'a 'i a
+Danaides	d a n 'a j ð e s
+Descaire	d e s k 'a j ɾ e
+Escaiola	a s k a j 'ɔ l a
+Faidella	f a j ð 'e ʎ a
+Ferraire	f e r 'a j ɾ e
+Ferrairó	f e r a j ɾ 'o
+Gaietana	g a i e t 'a n a
+Himàlaia	i m 'a l a j a
+Hokkaido	ɔ a k 'a j ð o
+Lavongai	l a β o ŋ g 'a j
+Mainader	m a j n a ð 'e
+Nadalmai	n a ð a l m 'a j
+Paiporta	p a i p 'ɔ t a
+Paraguai	p a ɾ a ɣ u 'a j
+Pitcairn	p i t k t 'i n
+Plaiensa	p l a j 'ɛ n s a
+Rabelais	r a β e l 'a j s
+Raimundí	r a i m u n d 'i
+Tsinghai	t s i ŋ g 'ɔ i
+Voltaire	b o l t 'a j ɾ e
+abaionar	a β a j o n 'a
+abaionat	a β a j o n 'a t
+abaionem	a β a j o n 'e m
+abaionen	a β a j 'ɔ n e n
+abaiones	a β a j 'o n e s
+abaioneu	a β a j o n e 'u
+abaionin	a β a j 'o n i n
+abaionis	a β a j 'o n i s
+abaionés	a β a j o n 'e s
+abrainat	a β ɾ a i n 'a t
+acamaies	a k a m a 'i e s
+adobaire	a ð o β 'a j ɾ e
+afaitada	a f a i t 'a ð a
+afaitant	a f a i t 'a n
+afaitara	a f a i t 'a ɾ a
+afaitare	a f a i t 'a ɾ e
+afaitarà	a f a j t a ɾ 'a
+afaitaré	a f a j t a ɾ 'e
+afaitats	a f a i t 'a t s
+afaitava	a f a i t 'a β a
+afaiçona	a f a i s 'o n a
+afaiçone	a f a j s 'ɔ n e
+afaiçoni	a f a i s 'o n i
+afaiçono	a f a i s 'o n o
+afaiçonà	a f a j s o n 'a
+afaiçoní	a f a j s o n 'i
+affaires	a f f 'a j ɾ e s
+agraides	a ɣ ɾ 'a j ð e s
+agrairan	a ɣ ɾ a i ɾ 'a n
+agrairas	a ɣ ɾ 'a j ɾ a s
+agrairem	a ɣ ɾ a i ɾ 'e m
+agrairen	a ɣ ɾ 'a j ɾ e n
+agraires	a ɣ ɾ 'a j ɾ e s
+agraireu	a ɣ ɾ a i ɾ e 'u
+agrairia	a ɣ ɾ a i ɾ 'i a
+agrairàs	a ɣ ɾ a i ɾ 'a s
+agraisca	a ɣ ɾ 'a j s k a
+aguaitam	a ɣ u a i t 'a m
+aguaitar	a ɣ u a i t 'a
+aguaitas	a ɣ u a 'i t a s
+aguaitat	a ɣ u a i t 'a t
+aguaitau	a ɣ u a i t 'a u
+aguaitem	a ɣ u a i t 'e m
+aguaiten	a ɣ u 'a j t e n
+aguaites	a ɣ u a 'i t e s
+aguaiteu	a ɣ u a i t 'ɛ 'u
+aguaitin	a ɣ u 'a j t i n
+aguaitis	a ɣ u 'a j t i s
+aguaités	a ɣ u a j t 'e s
+aidariem	a j ð a ɾ i 'e m
+aidarien	a j ð a ɾ 'i e n
+aidaries	a j ð a ɾ 'i e s
+aidarieu	a j ð a ɾ i 'ɛ 'u
+aidaríem	a j ð a ɾ 'i e m
+aidaríeu	a j ð a ɾ 'i e u
+aidassem	a j ð a s 'e m
+aidassen	a j ð 'a s e n
+aidasses	a j ð 'a s e s
+aidasseu	a j ð a s 'ɛ u
+aidassim	a j ð a s 'i m
+aidassin	a j ð 'a s i n
+aidassis	a j ð 'a s i s
+aidassiu	a j ð a s 'i u
+aidessem	a j ð e s 'e m
+aidessen	a j ð 'e s e n
+aidesses	a j ð 'ɛ s e s
+aidesseu	a j ð e s 'ɛ u
+aidessim	a j ð e s 'i m
+aidessin	a j ð 'ɛ s i n
+aidessis	a j ð 'ɛ s i s
+aidessiu	a j ð e s 'i u
+aidéssem	a j ð 'e s e m
+aidéssim	a j ð 'e s i m
+aidéssiu	a j ð e s i 'u
+aielines	a j e l 'i n e s
+aieloner	a j e l o n 'e
+aikidoka	a j ʃ i ð 'ɔ k a
+aikinita	a j ʃ i n 'i t a
+aillable	a i ʎ 'a β l e
+aillades	a i ʎ 'a ð e s
+aillador	a j ʎ a ð 'o
+aillants	a i ʎ 'a n s
+aillaran	a j ʎ a ɾ 'a n
+aillaras	a i ʎ 'a ɾ a s
+aillarem	a j ʎ a ɾ 'e m
+aillaren	a i ʎ 'a ɾ e n
+aillares	a i ʎ 'a ɾ e s
+aillareu	a j ʎ a ɾ e 'u
+aillaria	a j ʎ a ɾ 'i a
+aillavem	a j ʎ a β 'e m
+aillaven	a i ʎ 'a β e n
+aillaves	a i ʎ 'a β e s
+aillaveu	a j ʎ a β e 'u
+aimadors	a j m a ð 'o s
+aiminada	a j m i n 'a ð a
+ainariem	a j n a ɾ i 'e m
+ainarien	a j n a ɾ 'i e n
+ainaries	a j n a ɾ 'i e s
+ainarieu	a j n a ɾ i 'ɛ 'u
+ainassem	a j n a s 'e m
+ainassen	a j n 'a s e n
+ainasses	a j n 'a s e s
+ainasseu	a j n a s 'ɛ u
+ainassim	a j n a s 'i m
+ainassin	a j n 'a s i n
+ainassis	a j n 'a s i s
+ainassiu	a j n a s 'i u
+ainessem	a j n e s 'e m
+ainessen	a j n 'e s e n
+ainesses	a j n 'ɛ s e s
+ainesseu	a j n e s 'ɛ u
+ainessim	a j n e s 'i m
+ainessin	a j n 'ɛ s i n
+ainessis	a j n 'ɛ s i s
+ainessiu	a j n e s 'i u
+ainuides	a i n 'u j ð e s
+aioderes	a j o ð 'e ɾ e s
+airament	a i ɾ a m 'e n
+airariem	a j ɾ a ɾ i 'e m
+airarien	a j ɾ a ɾ 'i e n
+airaries	a j ɾ a ɾ 'i e s
+airarieu	a j ɾ a ɾ i 'ɛ 'u
+airassem	a j ɾ a s 'e m
+airassen	a j ɾ 'a s e n
+airasses	a j ɾ 'a s e s
+airasseu	a j ɾ a s 'ɛ u
+airassim	a j ɾ a s 'i m
+airassin	a j ɾ 'a s i n
+airassis	a j ɾ 'a s i s
+airassiu	a j ɾ a s 'i u
+airecels	a j ɾ e s 'ɛ l s
+airejada	a j ɾ e ʒ 'a ð a
+airejant	a j ɾ e ʒ 'a n
+airejara	a j ɾ e ʒ 'a ɾ a
+airejare	a j ɾ e ʒ 'a ɾ e
+airejarà	a j ɾ e ʒ a ɾ 'a
+airejaré	a j ɾ e ʒ a ɾ 'e
+airejats	a j ɾ e ʒ 'a t s
+airejava	a j ɾ e ʒ 'a β a
+airejosa	a j ɾ e ʒ 'o s a
+airessem	a j ɾ e s 'e m
+airessen	a j ɾ 'e s e n
+airesses	a j ɾ 'ɛ s e s
+airesseu	a j ɾ e s 'ɛ u
+airessim	a j ɾ e s 'i m
+airessin	a j ɾ 'ɛ s i n
+airessis	a j ɾ 'ɛ s i s
+airessiu	a j ɾ e s 'i u
+airivola	a j ɾ i β 'ɔ l a
+airivols	a j ɾ i β 'ɔ l s
+airívola	a i ɾ 'i β o l a
+airívols	a i ɾ 'i β o l s
+aitampoc	a j t a m p 'ɔ k
+aitonenc	a j t o n 'e ŋ
+aiubites	a j u β 'i t e s
+aizoacia	a j z o a s 'i a
+aiúbides	a i 'u β i ð e s
+alafaies	a l a f a 'i e s
+albaiats	a l β a j 'a t s
+albaines	a l β 'a j n e s
+alboaire	a l β o 'a j ɾ e
+alcaidia	a l k a j ð 'i a
+aldaiera	a l d a j 'e ɾ a
+aldaiers	a l d a j 'e s
+almaizar	a l m a i z 'a
+alumaire	a l u m 'a j ɾ e
+amainada	a m a i n 'a ð a
+amainant	a m a i n 'a n
+amainara	a m a i n 'a ɾ a
+amainare	a m a i n 'a ɾ e
+amainarà	a m a j n a ɾ 'a
+amainaré	a m a j n a ɾ 'e
+amainats	a m a i n 'a t s
+amainava	a m a i n 'a β a
+amainons	a m a i n 'o n s
+anapaita	a n a p 'a j t a
+ansaires	a n s 'a j ɾ e s
+apaisada	a p a i z 'a ð a
+apaisats	a p a i z 'a t s
+apaivaga	a p a i β 'a ɣ a
+apaivago	a p a i β 'a ɣ o
+apaivagà	a p a j β a ɣ 'a
+aporraid	a p o r 'a j i
+arapaima	a ɾ a p 'a j m a
+arcaisme	a ɾ k a 'i z m e
+arcaista	a ɾ k a 'i s t a
+arcaitza	a ɾ k 'a j d z a
+arcaitze	a ɾ k 'a j d z e
+arcaitzi	a ɾ k 'a j d z i
+arcaitzo	a ɾ k 'a j d z o
+arraians	a r a j 'a n s
+arraimam	a r a i m 'a m
+arraimar	a r a i m 'a
+arraimas	a r 'a j m a s
+arraimat	a r a i m 'a t
+arraimau	a r a i m 'a u
+arraimem	a r a i m 'e m
+arraimen	a r 'a j m e n
+arraimes	a r 'a j m e s
+arraimeu	a r a i m 'ɛ 'u
+arraimin	a r 'a j m i n
+arraimis	a r 'a j m i s
+arraisos	a r 'a j z o s
+artaires	a t 'a j ɾ e s
+asclaire	a s k l 'a j ɾ e
+assainam	a s a i n 'a m
+assainar	a s a i n 'a
+assainas	a s 'a j n a s
+assainat	a s a i n 'a t
+assainau	a s a i n 'a u
+assainem	a s a i n 'e m
+assainen	a s 'a j n e n
+assaines	a s 'a j n e s
+assainet	a s a i n 'e t
+assaineu	a s a i n e 'u
+assainin	a s 'a j n i n
+assainis	a s 'a j n i s
+ataifors	a t a i f 'o s
+atalaiam	a t a l a j 'a m
+atalaiar	a t a l a j 'a
+atalaias	a t a l a 'i a s
+atalaiat	a t a l a j 'a t
+atalaiau	a t a l a j 'a u
+atalaiem	a t a l a j 'e m
+atalaien	a t a l 'a j e n
+atalaier	a t a l a j 'e
+atalaies	a t a l a 'i e s
+atalaieu	a t a l a j e 'u
+atalaiés	a t a l a j 'e s
+atiaires	a t i 'a j ɾ e s
+atraient	a t ɾ a i 'e n
+atzagaia	a d z a ɣ a 'i a
+autorail	a u t o ɾ 'a j l
+badaines	b a ð 'a j n e s
+badaires	b a ð 'a j ɾ e s
+bahaisme	b a e 'i z m e
+bahaista	b a e 'i s t a
+baiadera	b a j a ð 'e ɾ a
+baiarder	b a j a d 'e
+baietons	b a j e t 'o n s
+bailaora	b a j l a 'o ɾ a
+bailaors	b a j l a 'o s
+bainetes	b a i n 'e t e s
+bainites	b a i n 'i t e s
+bainític	b a i n 'i t i k
+baioccos	b a j 'ɔ k k o s
+baioneta	b a j o n 'e t a
+ballaire	b a ʎ 'a j ɾ e
+baülaire	b a w l 'a j ɾ e
+becaines	b e k 'a j n e s
+becairat	b e k a i ɾ 'a t
+becaires	b e k 'a j ɾ e s
+benagaia	b e n a ɣ a 'i a
+benagais	b e n a ɣ 'a j s
+bengains	b e ŋ g 'a j n s
+besiaies	b e z i a 'i e s
+besiaios	b e z i a 'i o s
+bilbaina	b i l β 'a j n a
+bilbains	b i l β 'a j n s
+birlaire	b i ɾ l 'a j ɾ e
+biscaina	b i s k 'a j n a
+biscains	b i s k 'a j n s
+bitlaire	b i t l 'a j ɾ e
+blocaire	b l o k 'a j ɾ e
+bobtails	b o p t 'a j l s
+boigaire	b o i ɣ 'a j ɾ e
+bolbaití	b o l β a j t 'i
+borraina	b o r 'a j n a
+borraire	b o r 'a j ɾ e
+boïgaire	b o i g 'a j ɾ e
+brailles	b ɾ 'a j ʎ e s
+bramaire	b ɾ a m 'a j ɾ e
+brisaina	b ɾ i z 'a j n a
+buscaire	b u s k 'a j ɾ e
+butlaire	b u t l 'a j ɾ e
+cagaires	k a ɣ 'a j ɾ e s
+caifasos	k a j f 'a z o s
+caiments	k a j m 'e n s
+cainites	k a j n 'i t e s
+cairades	k a j ɾ 'a ð e s
+cairaran	k a j ɾ a ɾ 'a n
+cairaras	k a j ɾ 'a ɾ a s
+cairarem	k a j ɾ a ɾ 'e m
+cairaren	k a j ɾ 'a ɾ e n
+cairares	k a j ɾ 'a ɾ e s
+cairareu	k a j ɾ a ɾ e 'u
+cairaria	k a j ɾ a ɾ 'i a
+cairaràs	k a j ɾ a ɾ 'a s
+cairavem	k a j ɾ a β 'e m
+cairaven	k a j ɾ 'a β e n
+cairaves	k a j ɾ 'a β e s
+cairaveu	k a j ɾ a β e 'u
+cairegem	k a j ɾ e ʒ 'e m
+cairegen	k a j ɾ 'e dʒ e n
+caireges	k a j ɾ 'ɛ ʒ e s
+cairegeu	k a j ɾ e ʒ e 'u
+cairegin	k a j ɾ 'ɛ ʒ i n
+cairegis	k a j ɾ 'ɛ ʒ i s
+cairegés	k a j ɾ e ʒ 'e s
+cairejam	k a j ɾ e ʒ 'a m
+cairejar	k a j ɾ e ʒ 'a
+cairejas	k a j ɾ e ʒ 'a s
+cairejat	k a j ɾ e ʒ 'a t
+cairejau	k a j ɾ e ʒ 'a
+cairells	k a j ɾ 'e ʎ s
+cairetes	k a j ɾ 'e t e s
+caironam	k a j ɾ o n 'a m
+caironar	k a j ɾ o n 'a
+caironas	k a j ɾ 'ɔ n a s
+caironat	k a j ɾ o n 'a t
+caironau	k a j ɾ o n 'a u
+caironem	k a j ɾ o n 'e m
+caironen	k a j ɾ 'ɔ n e n
+cairones	k a j ɾ 'o n e s
+caironet	k a j ɾ o n 'e t
+caironeu	k a j ɾ o n e 'u
+caironin	k a j ɾ 'o n i n
+caironis	k a j ɾ 'o n i s
+caironés	k a j ɾ o n 'e s
+cairotes	k a j ɾ 'ɔ t e s
+cairudes	k a j ɾ 'u ð e s
+cairàrem	k a j ɾ 'a ɾ e m
+cairàreu	k a j ɾ 'a ɾ e u
+cairàvem	k a j ɾ 'a β e m
+cairàveu	k a j ɾ a β e 'u
+calaibre	k a l 'a j β ɾ e
+caldaica	k a l d 'a j k a
+caldaics	k a l d 'a j k s
+cambrais	k a m b ɾ 'a j s
+cambraió	k a m b ɾ a j 'o
+candrais	k a n d ɾ 'a j s
+cantaire	k a n t 'a j ɾ e
+caparrai	k a p a r 'a j
+captaire	k a p t 'a j ɾ e
+caraisme	k a ɾ a 'i z m e
+caraites	k a ɾ 'a j t e s
+carandai	k a ɾ a n d 'a j
+cardaire	k a ɾ d 'a j ɾ e
+cartaire	k a t 'a j ɾ e
+cataifes	k a t 'a j f e s
+caçaires	k a s 'a j ɾ e s
+cintaire	s i n t 'a j ɾ e
+cirenaic	s i ɾ e n 'a j k
+clairaut	k l a i ɾ a 'u t
+clucaina	k l u k 'a j n a
+coblaire	k o β l 'a j ɾ e
+cocaines	k o k 'a j n e s
+cocainic	k o k a i n 'i k
+cocktail	k o k k t 'a j l
+coetaire	k o e t 'a j ɾ e
+colaines	k o l 'a j n e s
+complaia	k o m p l 'a j a
+contrais	k o n t ɾ 'a j s
+contraió	k o n t ɾ a j 'o
+copaibes	k o p 'a j β e s
+copaiers	k o p a j 'e s
+courtais	k o u t 'a j s
+cridaire	k ɾ i ð 'a j ɾ e
+cubainas	k u β 'a j n a s
+cursaire	k u a s 'a j ɾ e
+dadabhai	d a ð a β 'ɛ i
+dadaisme	d a ð a 'i z m e
+dadaista	d a ð a 'i s t a
+daimuser	d a j m u z 'e
+dainejar	d a j n e ʒ 'a
+daiquiri	d a j k 'i ɾ i
+dallaire	d a ʎ 'a j ɾ e
+dansaire	d a n s 'a j ɾ e
+dardaire	d a ɾ d 'a j ɾ e
+decaient	d e k a j 'e n
+deltaica	d e l t 'a j k a
+deltaics	d e l t 'a j k s
+desagrai	d e z a ɣ ɾ 'a j
+desairam	d e z a i ɾ 'a m
+desairar	d e z a i ɾ 'a
+desairas	d e z 'a j ɾ a s
+desairat	d e z a i ɾ 'a t
+desairau	d e z a i ɾ 'a u
+desairem	d e z a i ɾ 'e m
+desairen	d e z 'a j ɾ e n
+desaires	d e z 'a j ɾ e s
+desaireu	d e z a i ɾ e 'u
+desairin	d e z 'a j ɾ i n
+desairis	d e z 'a j ɾ i s
+desairos	d e z 'a j ɾ o s
+desairés	d e z a j ɾ 'e s
+desairós	d e z a i ɾ 'o s
+desmaiam	d e z m a j 'a m
+desmaiar	d e z m a j 'a
+desmaias	d e z m a 'i a s
+desmaiat	d e z m a j 'a t
+desmaiau	d e z m a j 'a u
+desmaiem	d e z m a j 'e m
+desmaien	d e z m 'a j e n
+desmaies	d e z m 'a j e s
+desmaieu	d e z m a j e 'u
+desmaiés	d e z m a j 'e s
+desplaia	d e s p l 'a j a
+detaille	d e t 'a j ʎ e
+detraiem	d e t ɾ a j 'e m
+detraieu	d e t ɾ a j e 'u
+dolçaina	d o l s 'a j n a
+draisina	d ɾ a i z 'i n a
+drapaire	d ɾ a p 'a j ɾ e
+dromaids	d ɾ o m 'a j i s
+elbaites	e l β 'a j t e s
+embabaia	a m b a β 'a j a
+embabaie	a m b a β 'a j e
+embabain	a m b 'a β a j n
+embabaio	a m b a β 'a j o
+embabais	a m b a β 'a j s
+embabaià	a m b a β a j 'a
+embaieta	a m b a j 'e t a
+Ailanthus	a i l a n t 'e s
+Almudaina	a l m u ð 'a j n a
+Bailaguet	b a j l a ɣ 'e t
+Bellcaire	b e ʎ k 'a j ɾ e
+Benifairó	b e n i f a j ɾ 'o
+Bocairent	b o k a j ɾ 'e n
+Bonamaisó	b o n a m a j z 'o
+Calataiud	k a l a t a j 'u
+Casasaies	k a z a z 'a 'i e s
+Esglaiava	a z ɣ l a j 'a β a
+Laietània	l a j e t 'a n i a
+Mâconnais	m e k o n n 'a j s
+Salagarai	s a l a ɣ a ɾ 'a j
+Santaiana	s a n t a j 'a n a
+Serrailla	s e r 'a j ʎ a
+Tabucaire	t a β u k 'a j ɾ e
+Tailàndia	t a i l 'a n d i a
+Trullaire	t ɾ u ʎ 'a j ɾ e
+abaionada	a β a j o n 'a ð a
+abaionant	a β a j o n 'a n
+abaionara	a β a j o n 'a ɾ a
+abaionarà	a β a j o n a ɾ 'a
+abaionats	a β a j o n 'a t s
+abaionava	a β a j o n 'a β a
+abellaire	a β e ʎ 'a j ɾ e
+abrainada	a β ɾ a i n 'a ð a
+abrainats	a β ɾ a i n 'a t s
+abstraiem	a p s t ɾ a j 'e m
+abstraieu	a p s t ɾ a j e 'u
+acaironat	a k a j ɾ o n 'a t
+adobaires	a ð o β 'a j ɾ e s
+afaitades	a f a i t 'a ð e s
+afaitador	a f a j t a ð 'o
+afaitaran	a f a j t a ɾ 'a n
+afaitaras	a f a i t 'a ɾ a s
+afaitarem	a f a j t a ɾ 'e m
+afaitaren	a f a i t 'a ɾ e n
+afaitares	a f a i t 'a ɾ e s
+afaitareu	a f a j t a ɾ e 'u
+afaitaria	a f a j t a ɾ 'i a
+afaitaràs	a f a j t a ɾ 'a s
+afaitavem	a f a j t a β 'e m
+afaitaven	a f a i t 'a β e n
+afaitaves	a f a i t 'a β e s
+afaitaveu	a f a j t a β e 'u
+afaitàrem	a f a i t 'a ɾ e m
+afaitàreu	a f a i t 'a ɾ e u
+afaitàvem	a f a i t 'a β e m
+afaitàveu	a f a i t a β e 'u
+afaiçonam	a f a j s o n 'a m
+afaiçonar	a f a j s o n 'a
+afaiçonas	a f a j s 'ɔ n a s
+afaiçonat	a f a j s o n 'a t
+afaiçonau	a f a j s o n 'a u
+afaiçonem	a f a j s o n 'e m
+afaiçonen	a f a j s 'ɔ n e n
+afaiçones	a f a i s 'o n e s
+afaiçoneu	a f a j s o n 'ɛ 'u
+afaiçonin	a f a i s 'o n i n
+afaiçonis	a f a i s 'o n i s
+afaiçonés	a f a j s o n 'e s
+agraiment	a ɣ ɾ a i m 'e n
+agrairiem	a ɣ ɾ a i ɾ i 'e m
+agrairien	a ɣ ɾ a i ɾ 'i e n
+agrairies	a ɣ ɾ a i ɾ 'i e s
+agrairieu	a ɣ ɾ a j ɾ i 'ɛ 'u
+agrairíem	a ɣ ɾ a i ɾ 'i e m
+agrairíeu	a ɣ ɾ a i ɾ 'i e u
+agraissem	a ɣ ɾ a i s 'e m
+agraissen	a ɣ ɾ 'a j s e n
+agraisses	a ɣ ɾ 'a j s e s
+agraisseu	a ɣ ɾ a i s 'ɛ u
+agraissim	a ɣ ɾ a i s 'i m
+agraissin	a ɣ ɾ 'a j s i n
+agraissis	a ɣ ɾ 'a j s i s
+agraissiu	a ɣ ɾ a i s 'i u
+aguaitada	a ɣ u a i t 'a ð a
+aguaitant	a ɣ u a i t 'a n
+aguaitara	a ɣ u a i t 'a ɾ a
+aguaitare	a ɣ u a i t 'a ɾ e
+aguaitarà	a ɣ u a j t a ɾ 'a
+aguaitaré	a ɣ u a j t a ɾ 'e
+aguaitats	a ɣ u a i t 'a t s
+aguaitava	a ɣ u a i t 'a β a
+aiatol·la	a j a t 'ɔ l a
+aiatol·là	a j a t o l 'a
+aielonera	a j e l o n 'e ɾ a
+aieloners	a j e l o n 'e s
+aikidokes	a j ʃ i ð 'ɔ ʒ e s
+aikinites	a j ʃ i n 'i t e s
+aillables	a i ʎ 'a β l e s
+ailladora	a j ʎ a ð 'o ɾ a
+ailladors	a j ʎ a ð 'o s
+aillament	a i ʎ a m 'e n
+aillariem	a j ʎ a ɾ i 'e m
+aillarien	a j ʎ a ɾ 'i e n
+aillaries	a j ʎ a ɾ 'i e s
+aillarieu	a j ʎ a ɾ i 'ɛ 'u
+aillassem	a j ʎ a s 'e m
+aillassen	a i ʎ 'a s e n
+aillasses	a i ʎ 'a s e s
+aillasseu	a j ʎ a s 'ɛ u
+aillassim	a j ʎ a s 'i m
+aillassin	a i ʎ 'a s i n
+aillassis	a i ʎ 'a s i s
+aillassiu	a j ʎ a s 'i u
+aillessem	a j ʎ e s 'e m
+aillessen	a j ʎ 'e s e n
+aillesses	a j ʎ 'ɛ s e s
+aillesseu	a j ʎ e s 'ɛ u
+aillessim	a j ʎ e s 'i m
+aillessin	a j ʎ 'ɛ s i n
+aillessis	a j ʎ 'ɛ s i s
+aillessiu	a j ʎ e s 'i u
+aiminades	a j m i n 'a ð e s
+airaments	a j ɾ a m 'e n s
+aire-aire	a j ɾ e 'a j ɾ e
+aireferit	a j ɾ e f e ɾ 'i t
+airejades	a j ɾ e ʒ 'a ð e s
+airejants	a j ɾ e ʒ 'a n s
+airejaran	a j ɾ e ʒ a ɾ 'a n
+airejaras	a j ɾ e ʒ 'a ɾ a s
+airejarem	a j ɾ e ʒ a ɾ 'e m
+airejaren	a j ɾ e ʒ 'a ɾ e n
+airejares	a j ɾ e ʒ 'a ɾ e s
+airejareu	a j ɾ e ʒ a ɾ e 'u
+airejaria	a j ɾ e ʒ a ɾ 'i a
+airejaràs	a j ɾ e ʒ a ɾ 'a s
+airejavem	a j ɾ e ʒ a β 'e m
+airejaven	a j ɾ e ʒ 'a β e n
+airejaves	a j ɾ e ʒ 'a β e s
+airejaveu	a j ɾ e ʒ a β e 'u
+airejoses	a j ɾ e ʒ 'o s e s
+airejosos	a j ɾ e ʒ 'o z o s
+airejàrem	a j ɾ e ʒ 'a ɾ e m
+airejàreu	a j ɾ e ʒ 'a ɾ e u
+airejàvem	a j ɾ e ʒ 'a β e m
+airejàveu	a j ɾ e ʒ a β e 'u
+airivoles	a j ɾ i β 'ɔ l e s
+airositat	a j ɾ o z i t 'a t
+airívoles	a i ɾ 'i β o l e s
+aitantost	a j t a n t 'o s t
+aitonenca	a j t o n 'e ŋ k a
+aitonencs	a j t o n 'e ŋ s
+aizoacies	a j z o a s 'i e s
+alaiorenc	a l a j o ɾ 'e ŋ
+albaidina	a l β a j ð 'i n a
+albaidins	a l β a j ð 'i n s
+alboaires	a l β o 'a j ɾ e s
+alboraier	a l β o ɾ a j 'e
+alcaidies	a l k a j ð 'i e s
+alcaiques	a l k 'a j k e s
+aldaieres	a l d a j 'e ɾ e s
+algaidina	a l ɣ a i ð 'i n a
+algaidins	a l ɣ a i ð 'i n s
+algebraic	a l dʒ e β ɾ 'a j k
+almaizars	a l m a i z 'a s
+altaiques	a l t 'a j k e s
+alumaires	a l u m 'a j ɾ e s
+amainades	a m a i n 'a ð e s
+amainaran	a m a j n a ɾ 'a n
+amainaras	a m a i n 'a ɾ a s
+amainarem	a m a j n a ɾ 'e m
+amainaren	a m a i n 'a ɾ e n
+amainares	a m a i n 'a ɾ e s
+amainareu	a m a j n a ɾ e 'u
+amainaria	a m a j n a ɾ 'i a
+amainaràs	a m a j n a ɾ 'a s
+amainavem	a m a j n a β 'e m
+amainaven	a m a i n 'a β e n
+amainaves	a m a i n 'a β e s
+amainaveu	a m a j n a β e 'u
+amainàrem	a m a i n 'a ɾ e m
+amainàreu	a m a i n 'a ɾ e u
+amainàvem	a m a i n 'a β e m
+amainàveu	a m a i n a β e 'u
+amaitinar	a m a j t i n 'a
+anapaites	a n a p 'a j t e s
+apaisades	a p a i z 'a ð e s
+apaivagam	a p a j β a ɣ 'a m
+apaivagar	a p a j β a ɣ 'a
+apaivagas	a p a i β 'a ɣ a s
+apaivagat	a p a j β a ɣ 'a t
+apaivagau	a p a j β a ɣ 'a u
+apaivague	a p a i β 'a ɣ e
+apaivagui	a p a i β 'a ɣ i
+apaivaguí	a p a j β a ɣ 'i
+aporraids	a p o r 'a j i s
+aramaisme	a ɾ a m a 'i z m e
+arapaimes	a ɾ a p 'a j m e s
+arcaiques	a ɾ k 'a j k e s
+arcaismes	a ɾ k a 'i z m e s
+arcaistes	a ɾ k a 'i s t e s
+arcaitzam	a ɾ k a j d z 'a m
+arcaitzar	a ɾ k a j d z 'a
+arcaitzas	a ɾ k a i d z 'a s
+arcaitzat	a ɾ k a j d z 'a t
+arcaitzau	a ɾ k a j d z 'a u
+arcaitzem	a ɾ k a j d z 'e m
+arcaitzen	a ɾ k 'a j d z e n
+arcaitzes	a ɾ k 'a j d z e s
+arcaitzeu	a ɾ k a j t 'u 'ɛ 'u
+arcaitzin	a ɾ k 'a j d z i n
+arcaitzis	a ɾ k 'a j d z i s
+arraimada	a r a i m 'a ð a
+arraimant	a r a i m 'a n
+arraimara	a r a i m 'a ɾ a
+arraimare	a r a i m 'a ɾ e
+arraimats	a r a i m 'a t s
+arraimava	a r a i m 'a β a
+arrapaire	a r a p 'a j ɾ e
+artigaire	a ɾ t i ɣ 'a j ɾ e
+assainada	a s a i n 'a ð a
+assainant	a s a i n 'a n
+assainara	a s a i n 'a ɾ a
+assainare	a s a i n 'a ɾ e
+assainats	a s a i n 'a t s
+assainava	a s a i n 'a β a
+assainets	a s a i n 'e t s
+atalaiada	a t a l a j 'a ð a
+atalaiant	a t a l a j 'a n
+atalaiara	a t a l a j 'a ɾ a
+atalaiare	a t a l a j 'a ɾ e
+atalaiarà	a t a l a j a ɾ 'a
+atalaiaré	a t a l a j a ɾ 'e
+atalaiats	a t a l a j 'a t s
+atalaiava	a t a l a j 'a β a
+atalaiers	a t a l a j 'e s
+atraients	a t ɾ a i 'e n t s
+atraiment	a t ɾ a i m 'e n
+atzagaies	a d z a ɣ a 'i e s
+autorails	a u t o ɾ a 'i l s
+avantpais	a β a n p 'a j s
+bacairins	b a k a j ɾ 'i n s
+badocaire	b a ð o k 'a j ɾ e
+bagulaire	b a ɣ u l 'a j ɾ e
+bahaismes	b a e 'i z m e s
+bahaistes	b a e 'i s t e s
+baiaderes	b a j a ð 'e ɾ e s
+baiardera	b a j a d 'e ɾ a
+baiarders	b a j a d 'e s
+bailaores	b a j l a 'o e s
+bainítica	b a i n 'i t i k a
+bainítics	b a i n 'i t i k s
+baionetes	b a j o n 'e t e s
+balalaica	b a l a l 'a j k a
+ballaires	b a ʎ 'a j ɾ e s
+baülaires	b a w l 'a j ɾ e s
+becairats	b e k a i ɾ 'a t s
+benagaies	b e n a ɣ a 'i e s
+bestraiem	b e s t ɾ a j 'e m
+bestraieu	b e s t ɾ a j e 'u
+bilbaines	b i l β 'a j n e s
+birlaires	b i ɾ l 'a j ɾ e s
+biscaines	b i s k 'a j n e s
+bitlaires	b i t l 'a j ɾ e s
+bitllaire	b i ʎ ʎ 'a j ɾ e
+boigaires	b o i ɣ 'a j ɾ e s
+boletaire	b o l e t 'a j ɾ e
+borraines	b o r 'a j n e s
+borraires	b o r 'a j ɾ e s
+boïgaires	b o i g 'a j ɾ e s
+bramaires	b ɾ a m 'a j ɾ e s
+brisaines	b ɾ i z 'a j n e s
+brossaire	b ɾ o s 'a j ɾ e
+buscaires	b u s k 'a j ɾ e s
+butlaires	b u t l 'a j ɾ e s
+butllaire	b u ʎ ʎ 'a j ɾ e
+cadiraire	k a ð i ɾ 'a j ɾ e
+caiacpolo	k a j a s p 'ɔ l o
+caillavet	k a j ʎ a β 'e t
+cairariem	k a j ɾ a ɾ i 'e m
+cairarien	k a j ɾ a ɾ 'i e n
+cairaries	k a j ɾ a ɾ 'i e s
+cairarieu	k a j ɾ a ɾ i 'ɛ 'u
+cairaríem	k a j ɾ a ɾ 'i e m
+cairaríeu	k a j ɾ a ɾ 'i e u
+cairassem	k a j ɾ a s 'e m
+cairassen	k a j ɾ 'a s e n
+cairasses	k a j ɾ 'a s e s
+cairasseu	k a j ɾ a s 'ɛ u
+cairassim	k a j ɾ a s 'i m
+cairassin	k a j ɾ 'a s i n
+cairassis	k a j ɾ 'a s i s
+cairassiu	k a j ɾ a s 'i u
+cairejada	k a j ɾ e ʒ 'a ð a
+cairejant	k a j ɾ e ʒ 'a n
+cairejara	k a j ɾ e ʒ 'a ɾ a
+cairejare	k a j ɾ e ʒ 'a ɾ e
+cairejarà	k a j ɾ e ʒ a ɾ 'a
+cairejaré	k a j ɾ e ʒ a ɾ 'e
+cairejats	k a j ɾ e ʒ 'a t s
+cairejava	k a j ɾ e ʒ 'a β a
+cairessem	k a j ɾ e s 'e m
+cairessen	k a j ɾ 'e s e n
+cairesses	k a j ɾ 'ɛ s e s
+cairesseu	k a j ɾ e s 'ɛ u
+cairessim	k a j ɾ e s 'i m
+cairessin	k a j ɾ 'ɛ s i n
+cairessis	k a j ɾ 'ɛ s i s
+cairessiu	k a j ɾ e s 'i u
+caironada	k a j ɾ o n 'a ð a
+caironant	k a j ɾ o n 'a n
+caironara	k a j ɾ o n 'a ɾ a
+caironare	k a j ɾ o n 'a ɾ e
+caironarà	k a j ɾ o n a ɾ 'a
+caironaré	k a j ɾ o n a ɾ 'e
+caironats	k a j ɾ o n 'a t s
+caironava	k a j ɾ o n 'a β a
+caironets	k a j ɾ o n 'e t s
+cairéssim	k a j ɾ 'e s i m
+cairéssiu	k a j ɾ e s i 'u
+calissaia	k a l i s a 'i a
+caminaire	k a m i n 'a j ɾ e
+canadaire	k a n a ð 'a j ɾ e
+canetaire	k a n e t 'a j ɾ e
+canonaire	k a n o n 'a j ɾ e
+cantaires	k a n t 'a j ɾ e s
+caodaisme	k a o ð a 'i z m e
+caparrais	k a p a r 'a j s
+captaires	k a p t 'a j ɾ e s
+caraismes	k a ɾ a 'i z m e s
+cardaires	k a ɾ d 'a j ɾ e s
+cartaires	k a t 'a j ɾ e s
+catifaire	k a t i f 'a j ɾ e
+cendraire	s e n d ɾ 'a j ɾ e
+chaitanya	k a i t 'a ɲ a
+champlain	k o a m p l 'a j n
+chapelain	k a p 'ɛ l 'a j n
+cintaires	s i n t 'a j ɾ e s
+ciracaire	s i ɾ a k 'a j ɾ e
+cirenaica	s i ɾ e n 'a j k a
+cirenaics	s i ɾ e n a 'i k s
+clucaines	k l u k 'a j n e s
+coblaires	k o β l 'a j ɾ e s
+cocainica	k o k a i n 'i k a
+cocainics	k o k a i n 'i k s
+cocktails	k o k k t 'a j l s
+coetaires	k o e t 'a j ɾ e s
+colomaire	k o l o m 'a j ɾ e
+coloraina	k o l o ɾ 'a j n a
+complaiem	k o m p l a j 'e m
+complaien	k o m p l 'a j e n
+complaies	k o m p l a 'i e s
+complaieu	k o m p l a j e 'u
+congrains	k o ŋ g ɾ 'a j n s
+conguaita	k o ŋ g u a 'i t a
+container	k o n t a i n 'e
+contraiem	k o n t ɾ a j 'e m
+contraieu	k o n t ɾ a j e 'u
+cordaites	k o ɾ d 'a j t e s
+cotonaire	k o t o n 'a j ɾ e
+cridaires	k ɾ i ð 'a j ɾ e s
+curraians	k u r a j 'a n s
+cursaires	k u a s 'a j ɾ e s
+dadaismes	d a ð a 'i z m e s
+dadaistes	d a ð a 'i s t e s
+daianovés	d a j a n o β 'e s
+dainadera	d a j n a ð 'e ɾ a
+daiquiris	d a j k 'i ɾ i s
+dalguaire	d a l ɣ u a 'i ɾ e
+dallaires	d a ʎ 'a j ɾ e s
+dansaires	d a n s 'a j ɾ e s
+dardaires	d a ɾ d 'a j ɾ e s
+decaiment	d e k a i m 'e n
+demanaire	d e m a n 'a j ɾ e
+desagraia	d e z a ɣ ɾ a 'i a
+desagraim	d e z a ɣ ɾ 'a j m
+desagrair	d e z a ɣ ɾ a 'i
+desagrais	d e z a ɣ ɾ 'a j s
+desagrait	d e z a ɣ ɾ 'a j t
+desagraiu	d e z a ɣ ɾ a i 'u
+desairada	d e z a i ɾ 'a ð a
+desairant	d e z a i ɾ 'a n
+desairara	d e z a i ɾ 'a ɾ a
+desairare	d e z a i ɾ 'a ɾ e
+desairarà	d e z a j ɾ a ɾ 'a
+desairaré	d e z a j ɾ a ɾ 'e
+desairats	d e z a i ɾ 'a t s
+desairava	d e z a i ɾ 'a β a
+desairegi	d e z a i ɾ 'ɛ ʒ i
+desairegí	d e z a j ɾ e ʒ 'i
+desaireig	d e z a i ɾ 'e tʃ
+desaireja	d e z a i ɾ 'e ʒ a
+desairejo	d e z a i ɾ 'ɛ ʒ o
+desairejà	d e z a j ɾ e ʒ 'a
+desairosa	d e z a i ɾ 'o z a
+desfaiçon	d e s f a i s 'o n
+desmaiada	d e z m a j 'a ð a
+desmaiant	d e z m a j 'a n
+desmaiara	d e z m a j 'a ɾ a
+desmaiare	d e z m a j 'a ɾ e
+desmaiarà	d e z m a j a ɾ 'a
+desmaiaré	d e z m a j a ɾ 'e
+desmaiats	d e z m a j 'a t s
+desmaiava	d e z m a j 'a β a
+desplaiem	d e s p l a j 'e m
+desplaien	d e s p l 'a j e n
+desplaies	d e s p l a 'i e s
+desplaieu	d e s p l a j e 'u
+desvalair	d e z β a l a 'i
+detraient	d e t ɾ a i 'e n
+dinadaire	d i n a ð 'a j ɾ e
+distraiem	d i s t ɾ a j 'e m
+distraieu	d i s t ɾ a j e 'u
+dolçainer	d o l s a i n 'e
+dolçaines	d o l s 'a j n e s
+draisines	d ɾ a i z 'i n e s
+drapaires	d ɾ a p 'a j ɾ e s
+elizaicín	ɛ l 'i z 'a j s 'i n
+embabaiam	a m b a β a j 'a m
+embabaiar	a m b a β a j 'a
+embabaias	a m b a β a 'i a s
+embabaiat	a m b a β a j 'a t
+embabaiau	a m b a β a j 'a u
+embabaiem	a m b a β a j 'e m
+embabaien	a m b a β 'a j e n
+embabaies	a m b a β a 'i e s
+embabaieu	a m b a β a j e 'u
+embabaiés	a m b a β a j 'e s
+embaietam	a m b a j e t 'a m
+embaietar	a m b a j e t 'a
+Baudelaire	b a u ð e l 'a j ɾ e
+Capellaire	k a p e ʎ 'a j ɾ e
+Cocentaina	k o s e n t 'a j n a
+CostaIvori	k o s t a i β 'ɔ ɾ i
+Daia Vella	d 'a j a } { b 'e ʎ a
+Elektrenai	ɛ l e k t ɾ e n 'a j
+Lafontaine	l a f o n t 'a j n e
+Maimònides	m a j m 'ɔ n i ð e s
+abaionades	a β a j o n 'a ð e s
+abaionaran	a β a j o n a ɾ 'a n
+abaionaren	a β a j o n 'a ɾ e n
+abaionares	a β a j o n 'a ɾ e s
+abaionaria	a β a j o n a ɾ 'i a
+abaionaràs	a β a j o n a ɾ 'a s
+abaionaven	a β a j o n 'a β e n
+abaionaves	a β a j o n 'a β e s
+abaionàrem	a β a j o n 'a ɾ e m
+abaionàreu	a β a j o n 'a ɾ e u
+abaionàvem	a β a j o n 'a β e m
+abaionàveu	a β a j o n a β e 'u
+abellaires	a β e ʎ 'a j ɾ e s
+abrainades	a β ɾ a i n 'a ð e s
+abstraient	a p s t ɾ a i 'e n
+acaironada	a k a j ɾ o n 'a ð a
+acaironats	a k a j ɾ o n 'a t s
+afaitadora	a f a j t a ð 'o ɾ a
+afaitadors	a f a j t a ð 'o s
+afaitament	a f a j t a m 'e n
+afaitariem	a f a j t a ɾ i 'e m
+afaitarien	a f a j t a ɾ 'i e n
+afaitaries	a f a j t a ɾ 'i e s
+afaitarieu	a f a j t a ɾ i 'ɛ 'u
+afaitaríem	a f a j t a ɾ 'i e m
+afaitaríeu	a f a j t a ɾ 'i e u
+afaitassem	a f a j t a s 'e m
+afaitassen	a f a j t 'a s e n
+afaitasses	a f a j t 'a s e s
+afaitasseu	a f a j t a s 'ɛ u
+afaitassim	a f a j t a s 'i m
+afaitassin	a f a j t 'a s i n
+afaitassis	a f a j t 'a s i s
+afaitassiu	a f a j t a s 'i u
+afaitessem	a f a j t e s 'e m
+afaitessen	a f a j t 'e s e n
+afaitesses	a f a j t 'ɛ s e s
+afaitesseu	a f a j t e s 'ɛ u
+afaitessim	a f a j t e s 'i m
+afaitessin	a f a j t 'ɛ s i n
+afaitessis	a f a j t 'ɛ s i s
+afaitessiu	a f a j t e s 'i u
+afaitéssem	a f a j t 'e s e m
+afaitésseu	a f a j t e s e 'u
+afaitéssim	a f a j t 'e s i m
+afaitéssiu	a f a j t e s i 'u
+afaiçonada	a f a j s o n 'a ð a
+afaiçonant	a f a j s o n 'a n
+afaiçonara	a f a j s o n 'a ɾ a
+afaiçonare	a f a j s o n 'a ɾ e
+afaiçonarà	a f a j s o n a ɾ 'a
+afaiçonaré	a f a j s o n a ɾ 'e
+afaiçonats	a f a j s o n 'a t s
+afaiçonava	a f a j s o n 'a β a
+agraiments	a ɣ ɾ a i m 'e n s
+agraisquen	a ɣ ɾ 'a j s k e n
+agraisques	a ɣ ɾ 'a j s k e s
+aguaitades	a ɣ u a i t 'a ð e s
+aguaitador	a ɣ u a j t a ð 'o
+aguaitaran	a ɣ u a j t a ɾ 'a n
+aguaitaras	a ɣ u a i t 'a ɾ a s
+aguaitarem	a ɣ u a j t a ɾ 'e m
+aguaitaren	a ɣ u a i t 'a ɾ e n
+aguaitares	a ɣ u a i t 'a ɾ e s
+aguaitareu	a ɣ u a j t a ɾ 'ɛ 'u
+aguaitaria	a ɣ u a j t a ɾ 'i a
+aguaitaràs	a ɣ u a j t a ɾ 'a s
+aguaitavem	a ɣ u a j t a β 'e m
+aguaitaven	a ɣ u a i t 'a β e n
+aguaitaves	a ɣ u a i t 'a β e s
+aguaitaveu	a ɣ u a j t a β 'ɛ 'u
+aguaitàrem	a ɣ u a i t 'a ɾ e m
+aguaitàreu	a ɣ u a i t 'a ɾ e u
+aguaitàvem	a ɣ u a i t 'a β e m
+aguaitàveu	a ɣ u a i t a β e 'u
+aiatol·lah	a j a t o l 'a
+aiatol·las	a j a t 'ɔ l a s
+aiatol·làs	a j a t o l 'a s
+aieloneres	a j e l o n 'e ɾ e s
+ailladores	a j ʎ a ð 'o ɾ e s
+aillaments	a j ʎ a m 'e n s
+aire-terra	a j ɾ e t 'ɛ r a
+aireferida	a j ɾ e f e ɾ 'i ð a
+aireferits	a j ɾ e f e ɾ 'i t s
+airegessem	a j ɾ e ʒ e s 'e m
+airegessen	a j ɾ e ʒ 'e s e n
+airegesses	a j ɾ e ʒ 'ɛ s e s
+airegesseu	a j ɾ e ʒ e s 'ɛ u
+airegessim	a j ɾ e ʒ e s 'i m
+airegessin	a j ɾ e ʒ 'ɛ s i n
+airegessis	a j ɾ e ʒ 'ɛ s i s
+airegessiu	a j ɾ e ʒ e s 'i u
+airegéssem	a j ɾ e ʒ 'e s e m
+airegésseu	a j ɾ e ʒ e s e 'u
+airegéssim	a j ɾ e ʒ 'e s i m
+airegéssiu	a j ɾ e ʒ e s i 'u
+airejament	a j ɾ e ʒ a m 'e n
+airejariem	a j ɾ e ʒ a ɾ i 'e m
+airejarien	a j ɾ e ʒ a ɾ 'i e n
+airejaries	a j ɾ e ʒ a ɾ 'i e s
+airejarieu	a j ɾ e ʒ a ɾ i 'ɛ 'u
+airejaríem	a j ɾ e ʒ a ɾ 'i e m
+airejaríeu	a j ɾ e ʒ a ɾ 'i e u
+airejassem	a j ɾ e ʒ a s 'e m
+airejassen	a j ɾ e ʒ 'a s e n
+airejasses	a j ɾ e ʒ 'a s e s
+airejasseu	a j ɾ e ʒ a s 'ɛ u
+airejassim	a j ɾ e ʒ a s 'i m
+airejassin	a j ɾ e ʒ 'a s i n
+airejassis	a j ɾ e ʒ 'a s i s
+airejassiu	a j ɾ e ʒ a s 'i u
+airosament	a j ɾ o z a m 'e n
+airositats	a j ɾ o z i t 'a t s
+aitzkolari	a j t e k o l 'a ɾ i
+alaiorenca	a l a j o ɾ 'e ŋ k a
+alaiorencs	a l a j o ɾ 'e ŋ s
+albaidines	a l β a j ð 'i n e s
+alboraiera	a l β o ɾ a j 'e ɾ a
+alboraiers	a l β o ɾ a j 'e s
+alcaidessa	a l k a j ð 'e s a
+alcallaire	a l k a ʎ 'a j ɾ e
+alcollaire	a l k o ʎ 'a j ɾ e
+algaidines	a l ɣ a i ð 'i n e s
+algebraica	a l dʒ e β ɾ 'a j k a
+algebraics	a l dʒ e β ɾ 'a j k s
+algepsaire	a l dʒ e p s 'a j ɾ e
+alguairenc	a l ɣ u a i ɾ 'e ŋ
+almudainer	a l m u ð a i n 'e
+amainariem	a m a j n a ɾ i 'e m
+amainarien	a m a j n a ɾ 'i e n
+amainaries	a m a j n a ɾ 'i e s
+amainarieu	a m a j n a ɾ i 'ɛ 'u
+amainaríem	a m a j n a ɾ 'i e m
+amainaríeu	a m a j n a ɾ 'i e u
+amainassem	a m a j n a s 'e m
+amainassen	a m a j n 'a s e n
+amainasses	a m a j n 'a s e s
+amainasseu	a m a j n a s 'ɛ u
+amainassim	a m a j n a s 'i m
+amainassin	a m a j n 'a s i n
+amainassis	a m a j n 'a s i s
+amainassiu	a m a j n a s 'i u
+amainessem	a m a j n e s 'e m
+amainessen	a m a j n 'e s e n
+amainesses	a m a j n 'ɛ s e s
+amainesseu	a m a j n e s 'ɛ u
+amainessim	a m a j n e s 'i m
+amainessin	a m a j n 'ɛ s i n
+amainessis	a m a j n 'ɛ s i s
+amainessiu	a m a j n e s 'i u
+amainéssem	a m a j n 'e s e m
+amainéssim	a m a j n 'e s i m
+amainéssiu	a m a j n e s i 'u
+amaitinada	a m a j t i n 'a ð a
+amaitinava	a m a j t i n 'a β a
+apaivagada	a p a j β a ɣ 'a ð a
+apaivagant	a p a j β a ɣ 'a n
+apaivagara	a p a j β a ɣ 'a ɾ a
+apaivagare	a p a j β a ɣ 'a ɾ e
+apaivagarà	a p a j β a ɣ a ɾ 'a
+apaivagaré	a p a j β a ɣ a ɾ 'e
+apaivagats	a p a j β a ɣ 'a t s
+apaivagava	a p a j β a ɣ 'a β a
+apaivaguem	a p a j β a ɣ 'e m
+apaivaguen	a p a i β 'a ɣ e n
+apaivagues	a p a i β 'a ɣ e s
+apaivagueu	a p a j β a ɣ u 'ɛ 'u
+apaivaguin	a p a i β 'a ɣ i n
+apaivaguis	a p a i β 'a ɣ i s
+apaivagués	a p a j β a ɣ 'e s
+aramaismes	a ɾ a m a 'i z m e s
+arcaitzada	a ɾ k a j d z 'a ð a
+arcaitzant	a ɾ k a j d z 'a n
+arcaitzara	a ɾ k a j d z 'a ɾ a
+arcaitzare	a ɾ k a j d z 'a ɾ e
+arcaitzats	a ɾ k a j d z 'a t s
+arcaitzava	a ɾ k a j d z 'a β a
+arraimades	a r a i m 'a ð e s
+arraimaran	a r a j m a ɾ 'a n
+arraimaras	a r a i m 'a ɾ a s
+arraimarem	a r a j m a ɾ 'e m
+arraimaren	a r a i m 'a ɾ e n
+arraimares	a r a i m 'a ɾ e s
+arraimareu	a r a j m a ɾ e 'u
+arraimaria	a r a j m a ɾ 'i a
+arraimavem	a r a j m a β 'e m
+arraimaven	a r a i m 'a β e n
+arraimaves	a r a i m 'a β e s
+arraimaveu	a r a j m a β e 'u
+arrapaires	a r a p 'a j ɾ e s
+arrossaire	a r o s 'a j ɾ e
+artigaires	a ɾ t i ɣ 'a j ɾ e s
+assainades	a s a i n 'a ð e s
+assainaran	a s a j n a ɾ 'a n
+assainaras	a s a i n 'a ɾ a s
+assainarem	a s a j n a ɾ 'e m
+assainaren	a s a i n 'a ɾ e n
+assainares	a s a i n 'a ɾ e s
+assainareu	a s a j n a ɾ e 'u
+assainaria	a s a j n a ɾ 'i a
+assainavem	a s a j n a β 'e m
+assainaven	a s a i n 'a β e n
+assainaves	a s a i n 'a β e s
+assainaveu	a s a j n a β e 'u
+atalaiades	a t a l a j 'a ð e s
+atalaiador	a t a l a j a ð 'o
+atalaiaran	a t a l a j a ɾ 'a n
+atalaiaras	a t a l a j 'a ɾ a s
+atalaiarem	a t a l a j a ɾ 'e m
+atalaiaren	a t a l a j 'a ɾ e n
+atalaiares	a t a l a j 'a ɾ e s
+atalaiareu	a t a l a j a ɾ e 'u
+atalaiaria	a t a l a j a ɾ 'i a
+atalaiaràs	a t a l a j a ɾ 'a s
+atalaiavem	a t a l a j a β 'e m
+atalaiaven	a t a l a j 'a β e n
+atalaiaves	a t a l a j 'a β e s
+atalaiaveu	a t a l a j a β e 'u
+atalaiàrem	a t a l a j 'a ɾ e m
+atalaiàreu	a t a l a j 'a ɾ e u
+atalaiàvem	a t a l a j 'a β e m
+atalaiàveu	a t a l a j a β e 'u
+atraiments	a t ɾ a i m 'e n s
+atzagaiada	a d z a ɣ a j 'a ð a
+badallaire	b a ð a ʎ 'a j ɾ e
+badocaires	b a ð o k 'a j ɾ e s
+bagulaires	b a ɣ u l 'a j ɾ e s
+baiarderes	b a j a d 'e ɾ e s
+baionetada	b a j o n e t 'a ð a
+banyegaire	b a ɲ e ɣ a 'i ɾ e
+barracaire	b a r a k 'a j ɾ e
+barretaire	b a r e t 'a j ɾ e
+barrilaire	b a r i l 'a j ɾ e
+barrinaire	b a r i n 'a j ɾ e
+batallaire	b a t a ʎ 'a j ɾ e
+beaujolais	b e a u ʒ o l 'a j s
+bestraient	b e s t ɾ a i 'e n
+bitllaires	b i ʎ ʎ 'a j ɾ e s
+bocairentí	b o k a j ɾ e n t 'i
+boletaires	b o l e t 'a j ɾ e s
+botzinaire	b o d z i n 'a j ɾ e
+brossaires	b ɾ o s 'a j ɾ e s
+brucataire	b ɾ u k a t 'a j ɾ e
+butllaires	b u ʎ ʎ 'a j ɾ e s
+cabussaire	k a β u s 'a j ɾ e
+cadiraires	k a ð i ɾ 'a j ɾ e s
+caiaquista	k a j a k 'i s t a
+caimarienc	k a j m a ɾ i 'e ŋ
+cairejades	k a j ɾ e ʒ 'a ð e s
+cairejaran	k a j ɾ e ʒ a ɾ 'a n
+cairejaras	k a j ɾ e ʒ 'a ɾ a s
+cairejarem	k a j ɾ e ʒ a ɾ 'e m
+cairejaren	k a j ɾ e ʒ 'a ɾ e n
+cairejares	k a j ɾ e ʒ 'a ɾ e s
+cairejareu	k a j ɾ e ʒ a ɾ e 'u
+cairejaria	k a j ɾ e ʒ a ɾ 'i a
+cairejaràs	k a j ɾ e ʒ a ɾ 'a s
+cairejavem	k a j ɾ e ʒ a β 'e m
+cairejaven	k a j ɾ e ʒ 'a β e n
+cairejaves	k a j ɾ e ʒ 'a β e s
+cairejaveu	k a j ɾ e ʒ a β e 'u
+cairejàrem	k a j ɾ e ʒ 'a ɾ e m
+cairejàreu	k a j ɾ e ʒ 'a ɾ e u
+cairejàvem	k a j ɾ e ʒ 'a β e m
+cairejàveu	k a j ɾ e ʒ a β e 'u
+caironades	k a j ɾ o n 'a ð e s
+caironaran	k a j ɾ o n a ɾ 'a n
+caironaras	k a j ɾ o n 'a ɾ a s
+caironarem	k a j ɾ o n a ɾ 'e m
+caironaren	k a j ɾ o n 'a ɾ e n
+caironares	k a j ɾ o n 'a ɾ e s
+caironareu	k a j ɾ o n a ɾ e 'u
+caironaria	k a j ɾ o n a ɾ 'i a
+caironaràs	k a j ɾ o n a ɾ 'a s
+caironavem	k a j ɾ o n a β 'e m
+caironaven	k a j ɾ o n 'a β e n
+caironaves	k a j ɾ o n 'a β e s
+caironaveu	k a j ɾ o n a β e 'u
+caironàrem	k a j ɾ o n 'a ɾ e m
+caironàreu	k a j ɾ o n 'a ɾ e u
+caironàvem	k a j ɾ o n 'a β e m
+caironàveu	k a j ɾ o n a β e 'u
+calcinaire	k a l s i n 'a j ɾ e
+caldaiques	k a l d 'a j k e s
+calissaies	k a l i s a 'i e s
+cambraions	k a m b ɾ a j 'o n s
+camillaire	k a m i ʎ 'a j ɾ e
+caminaires	k a m i n 'a j ɾ e s
+canadaires	k a n a ð 'a j ɾ e s
+canetaires	k a n e t 'a j ɾ e s
+cançonaire	k a n s o n 'a j ɾ e
+caodaismes	k a o ð a 'i z m e s
+carandains	k a ɾ a n d 'a j n s
+cargolaire	k a ɾ ɣ o l 'a j ɾ e
+carrilaire	k a r i l 'a j ɾ e
+catifaires	k a t i f 'a j ɾ e s
+ceballaire	s e β a ʎ 'a j ɾ e
+cendraires	s e n d ɾ 'a j ɾ e s
+cercolaire	s e ɾ k o l 'a j ɾ e
+chantraine	k w a n t ɾ 'a j n e
+ciberespai	s i β e ɾ e s p 'a j
+cigronaire	s i ɣ ɾ o n 'a j ɾ e
+clairanenc	k l a j ɾ a n 'e ŋ
+clavetaire	k l a β e t 'a j ɾ e
+cocainisme	k o k a j n 'i z m e
+cocainoman	k o k a j n o m 'a n
+colomaires	k o l o m 'a j ɾ e s
+colombaire	k o l o m b 'a j ɾ e
+coloraines	k o l o ɾ 'a j n e s
+conguaites	k o ŋ g u a 'i t e s
+conillaire	k o n i ʎ 'a j ɾ e
+containers	k o n t a i n 'e s
+contraient	k o n t ɾ a i 'e n
+contraions	k o n t ɾ a j 'o n s
+contrarail	k o n t ɾ a ɾ 'a j l
+contravair	k o n t ɾ a β a 'i
+cotillaire	k o t i ʎ 'a j ɾ e
+cotonaires	k o t o n 'a j ɾ e s
+criticaire	k ɾ i t i k 'a j ɾ e
+culleraire	k u ʎ e ɾ 'a j ɾ e
+daina jove	d 'a j n a } { dʒ 'ɔ β e
+dalai-lama	d a l a i l 'a m a
+decaiments	d e k a i m 'e n s
+deltaiques	d e l t 'a j k e s
+demanaires	d e m a n 'a j ɾ e s
+desagraida	d e z a ɣ ɾ 'a j ð a
+desagraiem	d e z a ɣ ɾ a j 'e m
+desagraien	d e z a ɣ ɾ a 'i e n
+desagraies	d e z a ɣ ɾ a 'i e s
+desagraieu	d e z a ɣ ɾ a j e 'u
+desagraint	d e z a ɣ ɾ a 'i n
+desagraira	d e z a ɣ ɾ 'a j ɾ a
+desagraire	d e z a ɣ ɾ 'a j ɾ e
+desagrairà	d e z a ɣ ɾ a i ɾ 'a
+desagrairé	d e z a ɣ ɾ a j ɾ 'e
+desagraisc	d e z a ɣ ɾ 'a j s k
+desagraits	d e z a ɣ ɾ a 'i t s
+desairades	d e z a i ɾ 'a ð e s
+desairaran	d e z a j ɾ a ɾ 'a n
+desairaras	d e z a i ɾ 'a ɾ a s
+desairarem	d e z a j ɾ a ɾ 'e m
+desairaren	d e z a i ɾ 'a ɾ e n
+desairares	d e z a i ɾ 'a ɾ e s
+desairareu	d e z a j ɾ a ɾ e 'u
+desairaria	d e z a j ɾ a ɾ 'i a
+desairaràs	d e z a j ɾ a ɾ 'a s
+desairavem	d e z a j ɾ a β 'e m
+desairaven	d e z a i ɾ 'a β e n
+desairaves	d e z a i ɾ 'a β e s
+desairaveu	d e z a j ɾ a β e 'u
+desairegem	d e z a j ɾ e ʒ 'e m
+desairegen	d e z a i ɾ 'e dʒ e n
+desaireges	d e z a i ɾ 'ɛ ʒ e s
+desairegeu	d e z a j ɾ e ʒ e 'u
+desairegin	d e z a i ɾ 'ɛ ʒ i n
+desairegis	d e z a i ɾ 'ɛ ʒ i s
+desairegés	d e z a j ɾ e ʒ 'e s
+desaireigs	d e z a i ɾ 'e tʃ s
+desairejar	d e z a j ɾ e ʒ 'a
+desairejat	d e z a j ɾ e ʒ 'a t
+desairejos	d e z a i ɾ 'ɛ ʒ o s
+desairoses	d e z a i ɾ 'o z e s
+desairosos	d e z a i ɾ 'o z o s
+desairàrem	d e z a i ɾ 'a ɾ e m
+desairàreu	d e z a i ɾ 'a ɾ e u
+desairàvem	d e z a i ɾ 'a β e m
+desairàveu	d e z a i ɾ a β e 'u
+desbalairé	d e z β a l a j ɾ 'e
+desembabai	d e z e m b a β 'a j
+desfaiçona	d e s f a i s 'o n a
+desfaiçone	d e s f a j s 'ɔ n e
+desfaiçoni	d e s f a i s 'o n i
+desfaiçono	d e s f a i s 'o n o
+desfaiçonà	d e s f a j s o n 'a
+desfaiçoní	d e s f a j s o n 'i
+desmaiades	d e z m a j 'a ð e s
+desmaiaran	d e z m a j a ɾ 'a n
+desmaiaras	d e z m a j 'a ɾ a s
+desmaiarem	d e z m a j a ɾ 'e m
+desmaiaren	d e z m a j 'a ɾ e n
+desmaiares	d e z m a j 'a ɾ e s
+desmaiareu	d e z m a j a ɾ e 'u
+desmaiaria	d e z m a j a ɾ 'i a
+desmaiaràs	d e z m a j a ɾ 'a s
+desmaiavem	d e z m a j a β 'e m
+desmaiaven	d e z m a j 'a β e n
+desmaiaves	d e z m a j 'a β e s
+desmaiaveu	d e z m a j a β e 'u
+desmaiàrem	d e z m a j 'a ɾ e m
+desmaiàreu	d e z m a j 'a ɾ e u
+desmaiàvem	d e z m a j 'a β e m
+desmaiàveu	d e z m a j a β e 'u
+dinadaires	d i n a ð 'a j ɾ e s
+dispondaic	d i s p o n d 'a j k
+distraient	d i s t ɾ a i 'e n
+dolçainera	d o l s a i n 'e ɾ a
+dolçainers	d o l s a i n 'e s
+elaiòmetre	e l a j 'ɔ m e t ɾ e
+embabaiada	a m b a β a j 'a ð a
+embabaiant	a m b a β a j 'a n
+embabaiara	a m b a β a j 'a ɾ a
+embabaiare	a m b a β a j 'a ɾ e
+embabaiarà	a m b a β a j a ɾ 'a
+embabaiaré	a m b a β a j a ɾ 'e
+embabaiats	a m b a β a j 'a t s
+embabaiava	a m b a β a j 'a β a
+embaietada	a m b a j e t 'a ð a
+embaietant	a m b a j e t 'a n
+embaietara	a m b a j e t 'a ɾ a
+Apolinnaire	a p o l i n n 'a j ɾ e
+Azerbaidjan	a z e ɾ b a j ð ʒ 'a n
+Azerbaitjan	a z e ɾ b a j dʒ 'a n
+Mikhailovna	m i k a i l 'ɔ b n a
+Rabassaires	r a β a s 'a j ɾ e s
+Saint-Simon	s a j n s i m 'o n
+Vaiverejava	b a j β e ɾ e ʒ 'a β a
+abaionarien	a β a j o n a ɾ 'i e n
+abaionaries	a β a j o n a ɾ 'i e s
+abaionaríem	a β a j o n a ɾ 'i e m
+abaionaríeu	a β a j o n a ɾ 'i e u
+abaionessen	a β a j o n 'e s e n
+abaionessin	a β a j o n 'ɛ s i n
+abaionéssem	a β a j o n 'e s e m
+abaionéssim	a β a j o n 'e s i m
+acaironades	a k a j ɾ o n 'a ð e s
+afaitadores	a f a j t a ð 'o ɾ e s
+afaitaments	a f a j t a m 'e n s
+afaiçonades	a f a j s o n 'a ð e s
+afaiçonaran	a f a j s o n a ɾ 'a n
+afaiçonaras	a f a j s o n 'a ɾ a s
+afaiçonarem	a f a j s o n a ɾ 'e m
+afaiçonaren	a f a j s o n 'a ɾ e n
+afaiçonares	a f a j s o n 'a ɾ e s
+afaiçonareu	a f a j s o n a ɾ 'ɛ 'u
+afaiçonaria	a f a j s o n a ɾ 'i a
+afaiçonaràs	a f a j s o n a ɾ 'a s
+afaiçonavem	a f a j s o n a β 'e m
+afaiçonaven	a f a j s o n 'a β e n
+afaiçonaves	a f a j s o n 'a β e s
+afaiçonaveu	a f a j s o n a β 'ɛ 'u
+afaiçonàrem	a f a j s o n 'a ɾ e m
+afaiçonàreu	a f a j s o n 'a ɾ e u
+afaiçonàvem	a f a j s o n 'a β e m
+afaiçonàveu	a f a j s o n 'a β e 'u
+aguaitadora	a ɣ u a j t a ð 'o ɾ a
+aguaitadors	a ɣ u a j t a ð 'o s
+aguaitariem	a ɣ u a j t a ɾ 'i 'e m
+aguaitarien	a ɣ u a j t a ɾ 'i e n
+aguaitaries	a ɣ u a j t a ɾ 'i e s
+aguaitarieu	a ɣ u a j t a ɾ 'i 'ɛ 'u
+aguaitaríem	a ɣ u a j t a ɾ 'i e m
+aguaitaríeu	a ɣ u a j t a ɾ 'i e u
+aguaitassem	a ɣ u a j t a s 'e m
+aguaitassen	a ɣ u a i t 'a s e n
+aguaitasses	a ɣ u a i t 'a s e s
+aguaitasseu	a ɣ u a j t 'a s 'ɛ u
+aguaitassim	a ɣ u a j t a s 'i m
+aguaitassin	a ɣ u a i t 'a s i n
+aguaitassis	a ɣ u a i t 'a s i s
+aguaitassiu	a ɣ u a j t a s 'i u
+aguaitessem	a ɣ u a j t e s 'e m
+aguaitessen	a ɣ u a j t 'e s e n
+aguaitesses	a ɣ u a j t 'ɛ s e s
+aguaitesseu	a ɣ u a j t e s 'ɛ u
+aguaitessim	a ɣ u a j t e s 'i m
+aguaitessin	a ɣ u a j t 'ɛ s i n
+aguaitessis	a ɣ u a j t 'ɛ s i s
+aguaitessiu	a ɣ u a j t e s 'i u
+aguaitéssem	a ɣ u a j t 'e s e m
+aguaitéssim	a ɣ u a j t 'e s i m
+aguaitéssiu	a ɣ u a j t 'e s i 'u
+aiatol·lans	a j a t o l 'a n s
+ailladament	a i ʎ a ð a m 'e n
+aireferides	a j ɾ e f e ɾ 'i ð e s
+airejaments	a j ɾ e ʒ a m 'e n s
+aitonenques	a j t o n 'e ŋ k e s
+aitzkolaris	a j t e k o l 'a ɾ i s
+alboraieres	a l β o ɾ a j 'e ɾ e s
+alcaidesses	a l k a j ð 'ɛ s e s
+alcallaires	a l k a ʎ 'a j ɾ e s
+alcollaires	a l k o ʎ 'a j ɾ e s
+algepsaires	a l dʒ e p s 'a j ɾ e s
+alguairenca	a l ɣ u a i ɾ 'e ŋ k a
+alguairencs	a l ɣ u a i ɾ 'e ŋ s
+almudainera	a l m u ð a i n 'e ɾ a
+almudainers	a l m u ð a i n 'e s
+apaivagable	a p a j β a ɣ 'a β l e
+apaivagades	a p a j β a ɣ 'a ð e s
+apaivagador	a p a j β a ɣ a ð 'o
+apaivagaran	a p a j β a ɣ a ɾ 'a n
+apaivagaras	a p a j β a ɣ 'a ɾ a s
+apaivagarem	a p a j β a ɣ a ɾ 'e m
+apaivagaren	a p a j β a ɣ 'a ɾ e n
+apaivagares	a p a j β a ɣ 'a ɾ e s
+apaivagareu	a p a j β a ɣ a ɾ e 'u
+apaivagaria	a p a j β a ɣ a ɾ 'i a
+apaivagaràs	a p a j β a ɣ a ɾ 'a s
+apaivagavem	a p a j β a ɣ a β 'e m
+apaivagaven	a p a j β a ɣ 'a β e n
+apaivagaves	a p a j β a ɣ 'a β e s
+apaivagaveu	a p a j β a ɣ a β e 'u
+apaivagàrem	a p a j β a ɣ 'a ɾ e m
+apaivagàreu	a p a j β a ɣ 'a ɾ e u
+apaivagàvem	a p a j β a ɣ 'a β e m
+apaivagàveu	a p a j β a ɣ a β e 'u
+apollinaire	a p o ʎ i n 'a j ɾ e
+arcaitzades	a ɾ k a j d z 'a ð e s
+arcaitzants	a ɾ k a j d z 'a n s
+arcaitzaran	a ɾ k a j d z a ɾ 'a n
+arcaitzaras	a ɾ k a j d z 'a ɾ a s
+arcaitzarem	a ɾ k a j d z a ɾ 'e m
+arcaitzaren	a ɾ k a j d z 'a ɾ e n
+arcaitzares	a ɾ k a j d z 'a ɾ e s
+arcaitzareu	a ɾ k a j d z a ɾ 'ɛ 'u
+arcaitzaria	a ɾ k a j d z a ɾ 'i a
+arcaitzavem	a ɾ k a j d z a β 'e m
+arcaitzaven	a ɾ k a j d z 'a β e n
+arcaitzaves	a ɾ k a j d z 'a β e s
+arcaitzaveu	a ɾ k a j d z a β 'ɛ 'u
+arraimament	a r a i m a m 'e n
+arraimariem	a r a j m a ɾ i 'e m
+arraimarien	a r a j m a ɾ 'i e n
+arraimaries	a r a j m a ɾ 'i e s
+arraimarieu	a r a j m a ɾ i 'ɛ 'u
+arraimassem	a r a j m a s 'e m
+arraimassen	a r a i m 'a s e n
+arraimasses	a r a i m 'a s e s
+arraimasseu	a r a j m a s 'ɛ u
+arraimassim	a r a j m a s 'i m
+arraimassin	a r a i m 'a s i n
+arraimassis	a r a i m 'a s i s
+arraimassiu	a r a j m a s 'i u
+arraimessem	a r a j m e s 'e m
+arraimessen	a r a j m 'e s e n
+arraimesses	a r a j m 'ɛ s e s
+arraimesseu	a r a j m e s 'ɛ u
+arraimessim	a r a j m e s 'i m
+arraimessin	a r a j m 'ɛ s i n
+arraimessis	a r a j m 'ɛ s i s
+arraimessiu	a r a j m e s 'i u
+arrossaires	a r o s 'a j ɾ e s
+assainariem	a s a j n a ɾ i 'e m
+assainarien	a s a j n a ɾ 'i e n
+assainaries	a s a j n a ɾ 'i e s
+assainarieu	a s a j n a ɾ i 'ɛ 'u
+assainassem	a s a j n a s 'e m
+assainassen	a s a i n 'a s e n
+assainasses	a s a i n 'a s e s
+assainasseu	a s a j n a s 'ɛ u
+assainassim	a s a j n a s 'i m
+assainassin	a s a i n 'a s i n
+assainassis	a s a i n 'a s i s
+assainassiu	a s a j n a s 'i u
+assainessem	a s a j n e s 'e m
+assainessen	a s a j n 'e s e n
+assainesses	a s a j n 'ɛ s e s
+assainesseu	a s a j n e s 'ɛ u
+assainessim	a s a j n e s 'i m
+assainessin	a s a j n 'ɛ s i n
+assainessis	a s a j n 'ɛ s i s
+assainessiu	a s a j n e s 'i u
+atalaiadora	a t a l a j a ð 'o ɾ a
+atalaiadors	a t a l a j a ð 'o s
+atalaiament	a t a l a 'i a m 'e n
+atalaiariem	a t a l a j a ɾ i 'e m
+atalaiarien	a t a l a j a ɾ 'i e n
+atalaiaries	a t a l a j a ɾ 'i e s
+atalaiarieu	a t a l a j a ɾ i 'ɛ 'u
+atalaiaríem	a t a l a j a ɾ 'i e m
+atalaiaríeu	a t a l a j a ɾ 'i e u
+atalaiassem	a t a l a j a s 'e m
+atalaiassen	a t a l a j 'a s e n
+atalaiasses	a t a l a j 'a s e s
+atalaiasseu	a t a l a j 'a s 'ɛ u
+atalaiassim	a t a l a j a s 'i m
+atalaiassin	a t a l a j 'a s i n
+atalaiassis	a t a l a j 'a s i s
+atalaiassiu	a t a l a j a s 'i u
+atalaiessem	a t a l a j e s 'e m
+atalaiessen	a t a l a j 'e s e n
+atalaiesses	a t a l a j 'ɛ s e s
+atalaiesseu	a t a l a j e s 'ɛ u
+atalaiessim	a t a l a j e s 'i m
+atalaiessin	a t a l a j 'ɛ s i n
+atalaiessis	a t a l a j 'ɛ s i s
+atalaiessiu	a t a l a j e s 'i u
+atalaiéssem	a t a l a j 'e s e m
+atalaiéssim	a t a l a j 'e s i m
+atalaiéssiu	a t a l a j e s i 'u
+atzagaiades	a d z a ɣ a j 'a ð e s
+avantpaisos	a β a n p 'a j z o s
+badallaires	b a ð a ʎ 'a j ɾ e s
+bainítiques	b a i n 'i t i k e s
+baionetades	b a j o n e t 'a ð e s
+balalaiques	b a l a l 'a j k e s
+banyegaires	b a ɲ e ɣ 'a j ɾ e s
+barbollaire	b a ɾ b o ʎ 'a j ɾ e
+bardissaire	b a ɾ d i s 'a j ɾ e
+barracaires	b a r a k 'a j ɾ e s
+barretaires	b a r e t 'a j ɾ e s
+barrilaires	b a r i l 'a j ɾ e s
+barrinaires	b a r i n 'a j ɾ e s
+batallaires	b a t a ʎ 'a j ɾ e s
+bellcairenc	b e ʎ k a j ɾ 'e ŋ
+benifaioner	b e n i f a j o n 'e
+benifairenc	b e n i f a i ɾ 'e ŋ
+bitlletaire	b i ʎ ʎ e t 'a j ɾ e
+borbollaire	b o b o ʎ 'a j ɾ e
+botzinaires	b o d z i n 'a j ɾ e s
+bricallaire	b ɾ i k a ʎ 'a j ɾ e
+brucataires	b ɾ u k a t 'a j ɾ e s
+brunzinaire	b ɾ u n z i n 'a j ɾ e
+cabussaires	k a β u s 'a j ɾ e s
+caiaquistes	k a j a k 'i s t e s
+cairegessem	k a j ɾ e ʒ e s 'e m
+cairegessen	k a j ɾ e ʒ 'e s e n
+cairegesses	k a j ɾ e ʒ 'ɛ s e s
+cairegesseu	k a j ɾ e ʒ e s 'ɛ u
+cairegessim	k a j ɾ e ʒ e s 'i m
+cairegessin	k a j ɾ e ʒ 'ɛ s i n
+cairegessis	k a j ɾ e ʒ 'ɛ s i s
+cairegessiu	k a j ɾ e ʒ e s 'i u
+cairegéssem	k a j ɾ e ʒ 'e s e m
+cairegéssim	k a j ɾ e ʒ 'e s i m
+cairegéssiu	k a j ɾ e ʒ e s i 'u
+cairejariem	k a j ɾ e ʒ a ɾ i 'e m
+cairejarien	k a j ɾ e ʒ a ɾ 'i e n
+cairejaries	k a j ɾ e ʒ a ɾ 'i e s
+cairejarieu	k a j ɾ e ʒ a ɾ i 'ɛ 'u
+cairejaríem	k a j ɾ e ʒ a ɾ 'i e m
+cairejaríeu	k a j ɾ e ʒ a ɾ 'i e u
+cairejassem	k a j ɾ e ʒ a s 'e m
+cairejassen	k a j ɾ e ʒ 'a s e n
+cairejasses	k a j ɾ e ʒ 'a s e s
+cairejasseu	k a j ɾ e ʒ a s 'ɛ u
+cairejassim	k a j ɾ e ʒ a s 'i m
+cairejassin	k a j ɾ e ʒ 'a s i n
+cairejassis	k a j ɾ e ʒ 'a s i s
+cairejassiu	k a j ɾ e ʒ a s 'i u
+caironariem	k a j ɾ o n a ɾ i 'e m
+caironarien	k a j ɾ o n a ɾ 'i e n
+caironaries	k a j ɾ o n a ɾ 'i e s
+caironarieu	k a j ɾ o n a ɾ i 'ɛ 'u
+caironaríem	k a j ɾ o n a ɾ 'i e m
+caironaríeu	k a j ɾ o n a ɾ 'i e u
+caironassem	k a j ɾ o n a s 'e m
+caironassen	k a j ɾ o n 'a s e n
+caironasses	k a j ɾ o n 'a s e s
+caironasseu	k a j ɾ o n 'a s 'ɛ u
+caironassim	k a j ɾ o n a s 'i m
+caironassin	k a j ɾ o n 'a s i n
+caironassis	k a j ɾ o n 'a s i s
+caironassiu	k a j ɾ o n a s 'i u
+caironessem	k a j ɾ o n e s 'e m
+caironessen	k a j ɾ o n 'e s e n
+caironesses	k a j ɾ o n 'ɛ s e s
+caironesseu	k a j ɾ o n e s 'ɛ u
+caironessim	k a j ɾ o n e s 'i m
+caironessin	k a j ɾ o n 'ɛ s i n
+caironessis	k a j ɾ o n 'ɛ s i s
+caironessiu	k a j ɾ o n e s 'i u
+caironéssim	k a j ɾ o n 'e s i m
+caironéssiu	k a j ɾ o n e s i 'u
+calcinaires	k a l s i n 'a j ɾ e s
+camillaires	k a m i ʎ 'a j ɾ e s
+cançonaires	k a n s o n 'a j ɾ e s
+capbussaire	k a p b u s 'a j ɾ e
+capdeguaita	k a p d e ɣ u a 'i t a
+caragolaire	k a ɾ a ɣ o l 'a j ɾ e
+carbassaire	k a ɾ b a s 'a j ɾ e
+cargolaires	k a ɾ ɣ o l 'a j ɾ e s
+carrilaires	k a r i l 'a j ɾ e s
+carronyaire	k a r o ɲ 'a j ɾ e
+casa pairal	k 'a z a } { p a i ɾ 'a l
+castellaire	k a s t e ʎ 'a j ɾ e
+ceballaires	s e β a ʎ 'a j ɾ e s
+cercolaires	s e ɾ k o l 'a j ɾ e s
+chamberlain	k u a m b e ɾ l 'a j n
+chastellain	k a s t e ʎ 'a j n
+ciberespais	s i β e ɾ e s p 'a j s
+cigronaires	s i ɣ ɾ o n 'a j ɾ e s
+cilindraire	s i l i n d ɾ 'a j ɾ e
+cirenaiques	s i ɾ e n 'a j k e s
+cistellaire	s i s t e ʎ 'a j ɾ e
+clairanenca	k l a j ɾ a n 'e ŋ k a
+clairanencs	k l a j ɾ a n 'e ŋ s
+clavetaires	k l a β e t 'a j ɾ e s
+cocainiques	k o k a j n 'i k e s
+cocainismes	k o k a j n 'i z m e s
+cocainomana	k o k a j n o m 'a n a
+cocainomans	k o k a j n o m 'a n s
+cocentainer	k o s e n t a i n 'e
+colombaires	k o l o m b 'a j ɾ e s
+conillaires	k o n i ʎ 'a j ɾ e s
+contestaire	k o n t e s t 'a j ɾ e
+contraestai	k o n t ɾ a e s t 'a j
+contraindic	k o n t ɾ a i n d 'i k
+contrarails	k o n t ɾ a ɾ a 'i l s
+contravaire	k o n t ɾ a β 'a j ɾ e
+contravairs	k o n t ɾ a β a 'i s
+cotillaires	k o t i ʎ 'a j ɾ e s
+criticaires	k ɾ i t i k 'a j ɾ e s
+cuaenlairat	k u a e n l a i ɾ 'a t
+culleraires	k u ʎ e ɾ 'a j ɾ e s
+daiavellenc	d a j a β e ʎ 'e ŋ
+dalai-lames	d a l a i l 'a m e s
+desagraides	d e z a ɣ ɾ 'a j ð e s
+desagrairan	d e z a ɣ ɾ a i ɾ 'a n
+desagrairas	d e z a ɣ ɾ 'a j ɾ a s
+desagrairem	d e z a ɣ ɾ a i ɾ 'e m
+desagrairen	d e z a ɣ ɾ 'a j ɾ e n
+desagraires	d e z a ɣ ɾ 'a j ɾ e s
+desagraireu	d e z a ɣ ɾ a i ɾ e 'u
+desagrairia	d e z a ɣ ɾ a i ɾ 'i a
+desagrairàs	d e z a ɣ ɾ a i ɾ 'a s
+desagraisca	d e z a ɣ ɾ 'a j s k a
+desairariem	d e z a j ɾ a ɾ i 'e m
+desairarien	d e z a j ɾ a ɾ 'i e n
+desairaries	d e z a j ɾ a ɾ 'i e s
+desairarieu	d e z a j ɾ a ɾ i 'ɛ 'u
+desairaríem	d e z a j ɾ a ɾ 'i e m
+desairaríeu	d e z a j ɾ a ɾ 'i e u
+desairassem	d e z a j ɾ a s 'e m
+desairassen	d e z a i ɾ 'a s e n
+desairasses	d e z a i ɾ 'a s e s
+desairasseu	d e z a j ɾ a s 'ɛ u
+desairassim	d e z a j ɾ a s 'i m
+desairassin	d e z a i ɾ 'a s i n
+desairassis	d e z a i ɾ 'a s i s
+desairassiu	d e z a j ɾ a s 'i u
+desairejada	d e z a j ɾ e ʒ 'a ð a
+desairejant	d e z a j ɾ e ʒ 'a n
+desairejarà	d e z a j ɾ e ʒ a ɾ 'a
+desairejaré	d e z a j ɾ e ʒ a ɾ 'e
+desairejats	d e z a j ɾ e ʒ 'a t s
+desairejava	d e z a j ɾ e ʒ 'a β a
+desairessem	d e z a j ɾ e s 'e m
+desairessen	d e z a j ɾ 'e s e n
+desairesses	d e z a j ɾ 'ɛ s e s
+desairesseu	d e z a j ɾ e s 'ɛ u
+desairessim	d e z a j ɾ e s 'i m
+desairessin	d e z a j ɾ 'ɛ s i n
+desairessis	d e z a j ɾ 'ɛ s i s
+desairessiu	d e z a j ɾ e s 'i u
+desairéssem	d e z a j ɾ 'e s e m
+desairéssim	d e z a j ɾ 'e s i m
+desairéssiu	d e z a j ɾ e s i 'u
+desarcaitza	d e z a ɾ k 'a j d z a
+desarcaitze	d e z a ɾ k 'a j d z e
+desarcaitzi	d e z a ɾ k 'a j d z i
+desarcaitzo	d e z a ɾ k 'a j d z o
+descomplaia	d e s k o m p l 'a j a
+desembabaia	d e z e m b a β 'a j a
+desembabaie	d e z e m b a β 'a j e
+desembabain	d e z e m b 'a β a j n
+desembabaio	d e z e m b a β 'a j o
+desembabais	d e z e m b a β 'a j s
+desembabaià	d e z e m b a β a j 'a
+desembainar	d e z e m b a i n 'a
+desempolain	d e z e m p 'ɔ l a j n
+desfaiçonam	d e s f a j s o n 'a m
+desfaiçonar	d e s f a j s o n 'a
+desfaiçonas	d e s f a j s 'ɔ n a s
+desfaiçonat	d e s f a j s o n 'a t
+desfaiçonau	d e s f a j s o n 'a u
+desfaiçonem	d e s f a j s o n 'e m
+desfaiçonen	d e s f a j s 'ɔ n e n
+desfaiçones	d e s f a i s 'o n e s
+desfaiçoneu	d e s f a j s o n 'ɛ 'u
+desfaiçonin	d e s f a i s 'o n i n
+desfaiçonis	d e s f a i s 'o n i s
+desfaiçonés	d e s f a j s o n 'e s
+desmaiariem	d e z m a j a ɾ i 'e m
+desmaiarien	d e z m a j a ɾ 'i e n
+desmaiaries	d e z m a j a ɾ 'i e s
+desmaiarieu	d e z m a j a ɾ i 'ɛ 'u
+desmaiaríem	d e z m a j a ɾ 'i e m
+desmaiaríeu	d e z m a j a ɾ 'i e u
+desmaiassem	d e z m a j a s 'e m
+desmaiassen	d e z m a j 'a s e n
+desmaiasses	d e z m a j 'a s e s
+desmaiasseu	d e z m a j 'a s 'ɛ u
+desmaiassim	d e z m a j a s 'i m
+desmaiassin	d e z m a j 'a s i n
+desmaiassis	d e z m a j 'a s i s
+desmaiassiu	d e z m a j a s 'i u
+desmaiessem	d e z m a j e s 'e m
+desmaiessen	d e z m a j 'e s e n
+desmaiesses	d e z m a j 'ɛ s e s
+desmaiesseu	d e z m a j e s 'ɛ u
+desmaiessim	d e z m a j e s 'i m
+desmaiessin	d e z m a j 'ɛ s i n
+desmaiessis	d e z m a j 'ɛ s i s
+desmaiessiu	d e z m a j e s 'i u
+desmaiéssem	d e z m a j 'e s e m
+desmaiésseu	d e z m a j e s e 'u
+desmaiéssim	d e z m a j 'e s i m
+desmaiéssiu	d e z m a j e s i 'u
+desplaiment	d e s p l a i m 'e n
+discursaire	d i s k u a s 'a j ɾ e
+dispondaica	d i s p o n d 'a j k a
+dispondaics	d i s p o n d 'a j k s
+dolçaineres	d o l s a i n 'e ɾ e s
+elaiotècnia	e l a j o t 'ɛ g n i a
+elaiòmetres	e l a j 'ɔ m e t ɾ e s
+embabaiades	a m b a β a j 'a ð e s
+embabaiaran	a m b a β a j a ɾ 'a n
+embabaiaras	a m b a β a j 'a ɾ a s
+embabaiarem	a m b a β a j a ɾ 'e m
+embabaiaren	a m b a β a j 'a ɾ e n
+embabaiares	a m b a β a j 'a ɾ e s
+embabaiareu	a m b a β a j a ɾ e 'u
+embabaiaria	a m b a β a j a ɾ 'i a
+embabaiaràs	a m b a β a j a ɾ 'a s
+embabaiavem	a m b a β a j a β 'e m
+embabaiaven	a m b a β a j 'a β e n
+embabaiaves	a m b a β a j 'a β e s
+embabaiaveu	a m b a β a j a β e 'u
+embabaiàrem	a m b a β a j 'a ɾ e m
+embabaiàreu	a m b a β a j 'a ɾ e u
+embabaiàvem	a m b a β a j 'a β e m
+embabaiàveu	a m b a β a j a β e 'u
+embaietades	a m b a j e t 'a ð e s
+Bougainville	b o u ɣ a i m b 'i ʎ e
+Santapellaia	s a n t a p e ʎ 'a j a
+afaitacanyes	a f a j t a k 'a ɲ e s
+afaitapobres	a f a j t a p 'ɔ β ɾ e s
+afaiçonament	a f a j s o n a m 'e n
+afaiçonariem	a f a j s o n a ɾ 'i 'e m
+afaiçonarien	a f a j s o n a ɾ 'i e n
+afaiçonaries	a f a j s o n a ɾ 'i e s
+afaiçonarieu	a f a j s o n a ɾ 'i 'ɛ 'u
+afaiçonaríem	a f a j s o n a ɾ 'i e m
+afaiçonaríeu	a f a j s o n a ɾ 'i e u
+afaiçonassem	a f a j s o n a s 'e m
+afaiçonassen	a f a j s o n 'a s e n
+afaiçonasses	a f a j s o n 'a s e s
+afaiçonasseu	a f a j s o n a s 'ɛ u
+afaiçonassim	a f a j s o n a s 'i m
+afaiçonassin	a f a j s o n 'a s i n
+afaiçonassis	a f a j s o n 'a s i s
+afaiçonassiu	a f a j s o n a s 'i u
+afaiçonessem	a f a j s o n e s 'e m
+afaiçonessen	a f a j s o n 'e s e n
+afaiçonesses	a f a j s o n 'ɛ s e s
+afaiçonesseu	a f a j s o n e s 'ɛ u
+afaiçonessim	a f a j s o n e s 'i m
+afaiçonessin	a f a j s o n 'ɛ s i n
+afaiçonessis	a f a j s o n 'ɛ s i s
+afaiçonessiu	a f a j s o n e s 'i u
+afaiçonéssem	a f a j s o n 'e s e m
+afaiçonésseu	a f a j s o n 'e s e 'u
+afaiçonéssim	a f a j s o n 'e s i m
+afaiçonéssiu	a f a j s o n 'e s i 'u
+aguaitadores	a ɣ u a j t a ð 'o ɾ e s
+alaiorenques	a l a j o ɾ 'e ŋ k e s
+algebraiques	a l dʒ e β ɾ 'a j k e s
+almudaineres	a l m u ð a i n 'e ɾ e s
+antijudaisme	a n t i ʒ u ð a 'i z m e
+apaivagables	a p a j β a ɣ 'a β l e s
+apaivagadora	a p a j β a ɣ a ð 'o ɾ a
+apaivagadors	a p a j β a ɣ a ð 'o s
+apaivagament	a p a i β a ɣ a m 'e n
+apaivagariem	a p a j β a ɣ a ɾ i 'e m
+apaivagarien	a p a j β a ɣ a ɾ 'i e n
+apaivagaries	a p a j β a ɣ a ɾ 'i e s
+apaivagarieu	a p a j β a ɣ a ɾ i 'ɛ 'u
+apaivagaríem	a p a j β a ɣ a ɾ 'i e m
+apaivagaríeu	a p a j β a ɣ a ɾ 'i e u
+apaivagassem	a p a j β a ɣ a s 'e m
+apaivagassen	a p a j β a ɣ 'a s e n
+apaivagasses	a p a j β a ɣ 'a s e s
+apaivagasseu	a p a j β a ɣ a s 'ɛ u
+apaivagassim	a p a j β a ɣ a s 'i m
+apaivagassin	a p a j β a ɣ 'a s i n
+apaivagassis	a p a j β a ɣ 'a s i s
+apaivagassiu	a p a j β a ɣ a s 'i u
+arcaitzariem	a ɾ k a j d z a ɾ 'i 'e m
+arcaitzarien	a ɾ k a j d z a ɾ 'i e n
+arcaitzaries	a ɾ k a j d z a ɾ 'i e s
+arcaitzarieu	a ɾ k a j d z a ɾ 'i 'ɛ 'u
+arcaitzassem	a ɾ k a j d z a s 'e m
+arcaitzassen	a ɾ k a j d z 'a s e n
+arcaitzasses	a ɾ k a j d z 'a s e s
+arcaitzasseu	a ɾ k a j d z 'a s 'ɛ u
+arcaitzassim	a ɾ k a j d z a s 'i m
+arcaitzassin	a ɾ k a j d z 'a s i n
+arcaitzassis	a ɾ k a j d z 'a s i s
+arcaitzassiu	a ɾ k a j d z a s 'i u
+arcaitzessem	a ɾ k a j d z e s 'e m
+arcaitzessen	a ɾ k a j d z 'e s e n
+arcaitzesses	a ɾ k a j d z 'ɛ s e s
+arcaitzesseu	a ɾ k a j d z e s 'ɛ u
+arcaitzessim	a ɾ k a j d z e s 'i m
+arcaitzessin	a ɾ k a j d z 'ɛ s i n
+arcaitzessis	a ɾ k a j d z 'ɛ s i s
+arcaitzessiu	a ɾ k a j d z e s 'i u
+arrabassaire	a r a β a s 'a j ɾ e
+arraimaments	a r a j m a m 'e n s
+atalaiadores	a t a l a j a ð 'o ɾ e s
+atalaiaments	a t a l a j a m 'e n s
+bandaranaike	b a n d a ɾ a n 'a j ʃ e
+barbollaires	b a ɾ b o ʎ 'a j ɾ e s
+bardissaires	b a ɾ d i s 'a j ɾ e s
+barretinaire	b a r e t i n 'a j ɾ e
+bellcairenca	b e ʎ k a j ɾ 'e ŋ k a
+bellcairencs	b e ʎ k a j ɾ 'e ŋ s
+benifaionera	b e n i f a j o n 'e ɾ a
+benifaioners	b e n i f a j o n 'e s
+benifairenca	b e n i f a i ɾ 'e ŋ k a
+benifairencs	b e n i f a i ɾ 'e ŋ s
+benifaironer	b e n i f a j ɾ o n 'e
+bitlletaires	b i ʎ ʎ e t 'a j ɾ e s
+bocairentina	b o k a j ɾ e n t 'i n a
+bocairentins	b o k a j ɾ e n t 'i n s
+borbollaires	b o b o ʎ 'a j ɾ e s
+bricallaires	b ɾ i k a ʎ 'a j ɾ e s
+brunzinaires	b ɾ u n z i n 'a j ɾ e s
+cabelleraire	k a β e ʎ e ɾ 'a j ɾ e
+capbussaires	k a p b u s 'a j ɾ e s
+capdeguaites	k a p d e ɣ u a 'i t e s
+carabassaire	k a ɾ a β a s 'a j ɾ e
+caragolaires	k a ɾ a ɣ o l 'a j ɾ e s
+caramellaire	k a ɾ a m e ʎ 'a j ɾ e
+carbassaires	k a ɾ b a s 'a j ɾ e s
+carronyaires	k a r o ɲ 'a j ɾ e s
+cilindraires	s i l i n d ɾ 'a j ɾ e s
+cistellaires	s i s t e ʎ 'a j ɾ e s
+cocainomanes	k o k a j n o m 'a n e s
+cocainomania	k o k a j n o m a n 'i a
+cocentainera	k o s e n t a i n 'e ɾ a
+cocentainers	k o s e n t a i n 'e s
+contestaires	k o n t e s t 'a j ɾ e s
+contraestais	k o n t ɾ a e s t 'a j s
+contraindica	k o n t ɾ a i n d 'i k a
+contraindico	k o n t ɾ a i n d 'i k o
+contraindicà	k o n t ɾ a i n d i k 'a
+contravairat	k o n t ɾ a β a j ɾ 'a t
+contravaires	k o n t ɾ a β 'a j ɾ e s
+cornamusaire	k o ɾ n a m u z 'a j ɾ e
+cuaenlairats	k u a e n l a j ɾ 'a t s
+deffontaines	d e f f o n t 'a j n e s
+desagraiment	d e z a ɣ ɾ a i m 'e n
+desagrairiem	d e z a ɣ ɾ a i ɾ i 'e m
+desagrairien	d e z a ɣ ɾ a i ɾ 'i e n
+desagrairies	d e z a ɣ ɾ a i ɾ 'i e s
+desagrairieu	d e z a ɣ ɾ a j ɾ i 'ɛ 'u
+desagrairíem	d e z a ɣ ɾ a i ɾ 'i e m
+desagrairíeu	d e z a ɣ ɾ a i ɾ 'i e u
+desagraissem	d e z a ɣ ɾ a i s 'e m
+desagraissen	d e z a ɣ ɾ 'a j s e n
+desagraisses	d e z a ɣ ɾ 'a j s e s
+desagraisseu	d e z a ɣ ɾ a i s 'ɛ u
+desagraissim	d e z a ɣ ɾ a i s 'i m
+desagraissin	d e z a ɣ ɾ 'a j s i n
+desagraissis	d e z a ɣ ɾ 'a j s i s
+desagraissiu	d e z a ɣ ɾ a i s 'i u
+desairejades	d e z a j ɾ e ʒ 'a ð e s
+desairejaran	d e z a j ɾ e ʒ a ɾ 'a n
+desairejarem	d e z a j ɾ e ʒ a ɾ 'e m
+desairejaren	d e z a j ɾ e ʒ 'a ɾ e n
+desairejares	d e z a j ɾ e ʒ 'a ɾ e s
+desairejareu	d e z a j ɾ e ʒ a ɾ e 'u
+desairejaria	d e z a j ɾ e ʒ a ɾ 'i a
+desairejaràs	d e z a j ɾ e ʒ a ɾ 'a s
+desairejaven	d e z a j ɾ e ʒ 'a β e n
+desairejaves	d e z a j ɾ e ʒ 'a β e s
+desairejàrem	d e z a j ɾ e ʒ 'a ɾ e m
+desairejàreu	d e z a j ɾ e ʒ 'a ɾ e u
+desairejàvem	d e z a j ɾ e ʒ 'a β e m
+desairejàveu	d e z a j ɾ e ʒ a β e 'u
+desarcaitzam	d e z a ɾ k a j d z 'a m
+desarcaitzar	d e z a ɾ k a j d z 'a
+desarcaitzas	d e z a ɾ k a i d z 'a s
+desarcaitzat	d e z a ɾ k a j d z 'a t
+desarcaitzau	d e z a ɾ k a j d z 'a u
+desarcaitzem	d e z a ɾ k a j d z 'e m
+desarcaitzen	d e z a ɾ k 'a j d z e n
+desarcaitzes	d e z a ɾ k 'a j d z e s
+desarcaitzeu	d e z a ɾ k a j t 'u 'ɛ 'u
+desarcaitzin	d e z a ɾ k 'a j d z i n
+desarcaitzis	d e z a ɾ k 'a j d z i s
+descomplaiem	d e s k o m p l a j 'e m
+descomplaien	d e s k o m p l 'a j e n
+descomplaies	d e s k o m p l a 'i e s
+descomplaieu	d e s k o m p l a j e 'u
+desembabaiam	d e z e m b a β a j 'a m
+desembabaiar	d e z e m b a β a j 'a
+desembabaias	d e z e m b a β a 'i a s
+desembabaiat	d e z e m b a β a j 'a t
+desembabaiau	d e z e m b a β a j 'a u
+desembabaiem	d e z e m b a β a j 'e m
+desembabaien	d e z e m b a β 'a j e n
+desembabaies	d e z e m b a β a 'i e s
+desembabaieu	d e z e m b a β a j e 'u
+desembabaiés	d e z e m b a β a j 'e s
+desempolaina	d e z e m p o l 'a j n a
+desempolaine	d e z e m p o l 'a j n e
+desempolaini	d e z e m p o l 'a j n i
+desempolaino	d e z e m p o l 'a j n o
+desempolainà	d e z e m p o l a i n 'a
+desempolainí	d e z e m p o l a j n 'i
+desfaiçonada	d e s f a j s o n 'a ð a
+desfaiçonant	d e s f a j s o n 'a n
+desfaiçonara	d e s f a j s o n 'a ɾ a
+desfaiçonare	d e s f a j s o n 'a ɾ e
+desfaiçonarà	d e s f a j s o n a ɾ 'a
+desfaiçonaré	d e s f a j s o n a ɾ 'e
+desfaiçonats	d e s f a j s o n 'a t s
+desfaiçonava	d e s f a j s o n 'a β a
+desplaiments	d e s p l a i m 'e n s
+discursaires	d i s k u a s 'a j ɾ e s
+elaiotècnies	e l a j o t e g n 'i e s
+embabaiariem	a m b a β a j a ɾ i 'e m
+embabaiarien	a m b a β a j a ɾ 'i e n
+embabaiaries	a m b a β a j a ɾ 'i e s
+embabaiarieu	a m b a β a j a ɾ i 'ɛ 'u
+embabaiaríem	a m b a β a j a ɾ 'i e m
+embabaiaríeu	a m b a β a j a ɾ 'i e u
+embabaiassem	a m b a β a j a s 'e m
+embabaiassen	a m b a β a j 'a s e n
+embabaiasses	a m b a β a j 'a s e s
+embabaiasseu	a m b a β a j 'a s 'ɛ u
+embabaiassim	a m b a β a j a s 'i m
+embabaiassin	a m b a β a j 'a s i n
+embabaiassis	a m b a β a j 'a s i s
+embabaiassiu	a m b a β a j a s 'i u
+embabaiessem	a m b a β a j e s 'e m
+embabaiessen	a m b a β a j 'e s e n
+embabaiesses	a m b a β a j 'ɛ s e s
+embabaiesseu	a m b a β a j e s 'ɛ u
+embabaiessim	a m b a β a j e s 'i m
+embabaiessin	a m b a β a j 'ɛ s i n
+embabaiessis	a m b a β a j 'ɛ s i s
+embabaiessiu	a m b a β a j e s 'i u
+embabaiéssem	a m b a β a j 'e s e m
+embabaiésseu	a m b a β a j e s e 'u
+embabaiéssim	a m b a β a j 'e s i m
+embabaiéssiu	a m b a β a j e s i 'u
+Bougainvillea	b o u ɣ a i m b 'i ʎ 'e a
+afaitapagesos	a f a j t a p a ʒ 'e z o s
+afaiçonaments	a f a j s o n a m 'e n s
+aillacionisme	a j ʎ a s i o n 'i z m e
+aillacionista	a j ʎ a s i o n 'i s t a
+alguairenques	a l ɣ u a i ɾ 'e ŋ k e s
+antijudaismes	a n t i ʒ u ð a 'i z m e s
+apaivagadores	a p a j β a ɣ a ð 'o ɾ e s
+apaivagaments	a p a j β a ɣ a m 'e n s
+apaivaguessem	a p a j β a ɣ e s 'e m
+apaivaguessen	a p a j β a ɣ 'e s e n
+apaivaguesses	a p a j β a ɣ u 'ɛ s e s
+apaivaguesseu	a p a j β a ɣ e s 'ɛ u
+apaivaguessim	a p a j β a ɣ e s 'i m
+apaivaguessin	a p a j β a ɣ u 'ɛ s i n
+apaivaguessis	a p a j β a ɣ u 'ɛ s i s
+apaivaguessiu	a p a j β a ɣ e s 'i u
+apaivaguéssem	a p a j β a ɣ 'e s e m
+apaivaguésseu	a p a j β a ɣ e s e 'u
+apaivaguéssim	a p a j β a ɣ 'e s i m
+apaivaguéssiu	a p a j β a ɣ e s i 'u
+arrabassaires	a r a β a s 'a j ɾ e s
+azerbaidjanes	a z e ɾ b a j ð ʒ 'a n e s
+azerbaidjanès	a z e ɾ b a j ð ʒ a n 'ɛ s
+azerbaidjanés	a z e ɾ b a j ð ʒ a n 'e s
+azerbaitjanés	a z e ɾ b a j dʒ a n 'e s
+barretinaires	b a r e t i n 'a j ɾ e s
+benifaioneres	b e n i f a j o n 'e ɾ e s
+benifaironera	b e n i f a j ɾ o n 'e ɾ a
+benifaironers	b e n i f a j ɾ o n 'e s
+bocairentines	b o k a j ɾ e n t 'i n e s
+brainstorming	b ɾ a i n s t o ɾ m 'i ŋ
+cabelleraires	k a β e ʎ e ɾ 'a j ɾ e s
+carabassaires	k a ɾ a β a s 'a j ɾ e s
+caramellaires	k a ɾ a m e ʎ 'a j ɾ e s
+clairanenques	k l a j ɾ a n 'e ŋ k e s
+cocainomanies	k o k a j n o m a n 'i e s
+cocentaineres	k o s e n t a i n 'e ɾ e s
+comptaimatges	k o m t a i m 'a dʒ e s
+contrafaiment	k o n t ɾ a f a i m 'e n
+contraindicam	k o n t ɾ a i n d i k 'a m
+contraindicar	k o n t ɾ a i n d i k 'a
+contraindicas	k o n t ɾ a i n d i k 'a s
+contraindicat	k o n t ɾ a i n d i k 'a t
+contraindicau	k o n t ɾ a i n d i k 'a u
+contraindique	k o n t ɾ a i n d 'i k e
+contraindiqui	k o n t ɾ a i n d 'i k i
+contraindiquí	k o n t ɾ a i n d i k 'i
+contravairada	k o n t ɾ a β a i ɾ 'a ð a
+contravairats	k o n t ɾ a β a i ɾ 'a t s
+cornamusaires	k o ɾ n a m u z 'a j ɾ e s
+cornamussaire	k o ɾ n a m u s 'a j ɾ e
+desagraiments	d e z a ɣ ɾ a i m 'e n s
+desagraisquen	d e z a ɣ ɾ 'a j s k e n
+desagraisques	d e z a ɣ ɾ 'a j s k e s
+desairegessin	d e z a j ɾ e ʒ 'ɛ s i n
+desairegessis	d e z a j ɾ e ʒ 'ɛ s i s
+desairegéssim	d e z a j ɾ e ʒ 'e s i m
+desairegéssiu	d e z a j ɾ e ʒ 'e s i w
+desairejarien	d e z a j ɾ e ʒ a ɾ 'i e n
+desairejaries	d e z a j ɾ e ʒ a ɾ 'i e s
+desairejaríem	d e z a j ɾ e ʒ a ɾ 'i e m
+desairejaríeu	d e z a j ɾ e ʒ a ɾ 'i e u
+desairosament	d e z a j ɾ o z a m 'e n
+desarcaitzada	d e z a ɾ k a j d z 'a ð a
+desarcaitzant	d e z a ɾ k a j d z 'a n
+desarcaitzara	d e z a ɾ k a j d z 'a ɾ a
+desarcaitzare	d e z a ɾ k a j d z 'a ɾ e
+desarcaitzats	d e z a ɾ k a j d z 'a t s
+desarcaitzava	d e z a ɾ k a j d z 'a β a
+desembabaiada	d e z e m b a β a j 'a ð a
+desembabaiant	d e z e m b a β a j 'a n
+desembabaiara	d e z e m b a β a j 'a ɾ a
+desembabaiare	d e z e m b a β a j 'a ɾ e
+desembabaiarà	d e z e m b a β a j a ɾ 'a
+desembabaiaré	d e z e m b a β a j a ɾ 'e
+desembabaiats	d e z e m b a β a j 'a t s
+desembabaiava	d e z e m b a β a j 'a β a

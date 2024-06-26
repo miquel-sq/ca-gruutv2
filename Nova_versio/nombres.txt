@@ -1,0 +1,49 @@
+1	'u
+2	d 'o s
+3	t ɾ 'e s
+4	k w 'a t ɾ e
+5	s 'i ŋ
+6	s 'i s
+7	s 'ɛ t
+8       b 'u j t
+9	n 'ɔ w
+10	d 'ɛ w
+11	'o n z e
+12      d 'o d z e
+13	t ɾ 'e d z e
+14      k a t 'o r d z e 
+15      k 'i n z e
+16      s 'e d z e
+17      d i s 'ɛ t
+18      d i b 'u j t
+19	d i n 'ɔ w
+20      b 'i n
+21      b i n t i 'u
+22	b i n t i d 'o s
+23	b i n t i t ɾ 'e s
+24	b i n t i k w 'a t ɾ e
+25	b i n t i s 'i ŋ
+26	b i n t i s 'i s
+27	b i n t i s 'ɛ t
+28	b i n t i b 'u j t	
+29	b i n t i n 'ɔ w
+30	t ɾ 'e n t a
+31      t ɾ e n t a 'u
+32	t ɾ e n t a d 'o s
+33	t ɾ e n t a t ɾ 'e s
+34	t ɾ e n t a k w 'a t ɾ e
+35	t ɾ e n t a s 'i ŋ
+36	t ɾ e n t a s 'i s
+37	t ɾ e n t a s 'ɛ t
+38	t ɾ e n t a b 'u j t	
+39	t ɾ e n t a n 'ɔ w
+40	k w a ɾ 'a n t a
+41      k w a ɾ a n t a 'u
+42	k w a ɾ a n t a d 'o s
+43	k w a ɾ a n t a t ɾ 'e s
+44	k w a ɾ a n t a k w 'a t ɾ e
+45	k w a ɾ a n t a s 'i ŋ
+46	k w a ɾ a n t a s 'i s
+47	k w a ɾ a n t a s 'ɛ t
+48	k w a ɾ a n t a b 'u j t	
+49	k w a ɾ a n t a n 'ɔ w

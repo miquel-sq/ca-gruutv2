@@ -1,0 +1,404 @@
+abellaire	ə β ə ʎ 'a j ɾ ə
+Acaia	ə k 'a j ə
+Adelaida	ə ð ə l 'a j ð ə
+ai	'a j
+Àiax	'a j ə k s
+aigua	'a j ɣ w ə
+aigües	'a j ɣ w ə s
+Aigües	'a j ɣ w ə s
+Aina	'a j n ə
+aire	'a j ɾ ə
+aires	'a j ɾ ə s
+Alboraia	ə l β u ɾ 'a j ə
+algebraic	ə l ʒ ə β ɾ 'a j k
+Altai	ə l t 'a j
+altaic	ə l t 'a j k
+arcaic	ə r k 'a j k
+arcaica	ə r k 'a j k ə
+arcaics	ə r k 'a j k s
+arcaiques	ə r k 'a j k ə s
+bai	b 'a j
+baia	b 'a j ə
+baila	b 'a j l ə
+barrinaire	b ə r i n 'a j ɾ ə
+becaina	b ə k 'a j n ə
+becaines	b ə k 'a j n ə s
+Biscaia	b i s k 'a j ə
+Blai	b l 'a j
+boletaire	b u l ə t 'a j ɾ ə
+botzinaire	b u d z i n 'a j ɾ ə
+Caire	k 'a j ɾ ə
+caire	k 'a j ɾ ə
+caires	k 'a j ɾ ə s
+carrilaire	k ə r i l 'a j ɾ ə
+carronyaire	k ə r u ɲ 'a j ɾ ə
+ciberespai	s i β ə ɾ ə s p 'a j
+ciberespais	s i β ə ɾ ə s p 'a j s
+Cirenaica	s i ɾ ə n 'a j k ə
+cupaire	k u p 'a j ɾ ə
+cupaires	k u p 'a j ɾ ə s
+daina	d 'a j n ə
+dansaire	d ə n s 'a j ɾ ə
+dansaires	d ə n s 'a j ɾ ə s
+desaigüe	d ə z 'a j ɣ w ə
+desmai	d ə z m 'a j
+dolçaina	d u l s 'a j n ə
+drapaire	d ɾ ə p 'a j ɾ ə
+empait	ə m p 'a j t
+enlaire	ə n l 'a j ɾ ə
+escaire	ə s k 'a j ɾ ə
+escombriaire	ə s k u m b ɾ i 'a j ɾ ə
+esglai	ə z ɣ l 'a j
+espai	ə s p 'a j
+espais	ə s p 'a j s
+esplai	ə s p l 'a j
+estai	ə s t 'a j
+festaire	f ə s t 'a j ɾ ə
+flaire	f l 'a j ɾ ə
+fotovoltaic	f u t u β u l t 'a j k
+fotovoltaica	f u t u β u l t 'a j k ə
+fotovoltaics	f u t u β u l t 'a j k s
+fotovoltaiques	f u t u β u l t 'a j k ə s
+Haia	'a j ə
+hebraic	ə β ɾ 'a j k
+hiperespai	i p ə ɾ ə s p 'a j
+hiperespais	i p ə ɾ ə s p 'a j s
+iaia	j 'a j ə
+iaies	j 'a j ə s
+iaio	j 'a j u
+incaic	i ŋ k 'a j k
+jamai	ʒ ə m 'a j
+Jamaica	ʒ ə m 'a j k ə
+joguinaire	ʒ u ɣ i n 'a j ɾ ə
+juntaire	ʒ u n t 'a j ɾ ə
+Kuwait	k u β 'a j t
+Laia	l 'a j ə
+laic	l 'a j k
+laica	l 'a j k ə
+laiques	l 'a j k ə s
+mai	m 'a j
+maia	m 'a j ə
+maies	m 'a j ə s
+malai	m ə l 'a j
+malaia	m ə l 'a j ə
+malaies	m ə l 'a j ə s
+malais	m ə l 'a j s
+malaisi	m ə l 'a j z i
+Malàisia	m ə l 'a j z i ə
+matajaia	m ə t ə ʒ 'a j ə
+minaire	m i n 'a j ɾ ə
+moixaina	m u ʃ 'a j n ə
+mosaic	m u z 'a j k
+mossegaire	m u s ə ɣ 'a j ɾ ə
+nàiada	n 'a j ə ð ə
+naip	n 'a j p
+paio	p 'a j u
+palaia	p ə l 'a j ə
+papagai	p ə p ə ɣ 'a j
+papaia	p ə p 'a j ə
+Paraguai	p ə ɾ ə ɣ w 'a j
+paraigua	p ə ɾ 'a j ɣ w ə
+paraigües	p ə ɾ 'a j ɣ w ə s
+parlaire	p ə r l 'a j ɾ ə
+parlotaire	p ə r l u t 'a j ɾ ə
+pescaire	p ə s k 'a j ɾ ə
+rabassaire	r ə β ə s 'a j ɾ ə
+rai	r 'a j
+rail	r 'a j l
+raima	r 'a j m ə
+rapinyaire	r ə p i ɲ 'a j ɾ ə
+renyaire	r ə ɲ 'a j ɾ ə
+rimaia	r i m 'a j ə
+rondallaire	r u n d ə ʎ 'a j ɾ ə
+rondinaire	r u n d i n 'a j ɾ ə
+ronsejaire	r u n s ə ʒ 'a j ɾ ə
+salsitxaire	s ə l s i t ʃ 'a j ɾ ə
+soscaire	s u s k 'a j ɾ ə
+tabacaire	t ə β ə k 'a j ɾ ə
+talaia	t ə l 'a j ə
+terrissaire	t ə r i s 'a j ɾ ə
+torraina	t u r 'a j n ə
+trinxeraire	t ɾ i n ʃ ə ɾ 'a j ɾ ə
+txagatai	t ʃ ə ɣ ə t 'a j
+Uruguai	u ɾ u ɣ w 'a j
+vair	b 'a j r
+vaire	b 'a j ɾ ə
+vistaire	b i s t 'a j ɾ ə
+xai	ʃ 'a j
+xaira	ʃ 'a j ɾ ə
+Zaire	z 'a j ɾ ə
+mai	m 'a j
+gaire	g 'a j ɾ ə
+l'aigua	l 'a j ɣ w ə
+l'espai	l ə s p 'a j
+d'aigua	d 'a j ɣ w ə
+espai	ə s p 'a j
+l'aire	l 'a j ɾ ə
+aigua	'a j ɣ w ə
+Mai	m 'a j
+gaires	g 'a j ɾ ə s
+espais	ə s p 'a j s
+aire	'a j ɾ ə
+enlaire	ə n l 'a j ɾ ə
+d'aire	d 'a j ɾ ə
+caigui	k 'a j ɣ i
+L'aigua	l 'a j ɣ w ə
+aigües	'a j ɣ w ə s
+drapaire	d ɾ ə p 'a j ɾ ə
+d'espai	d ə s p 'a j
+d'aigües	d 'a j ɣ w ə s
+Kuwait	k u β 'a j t
+paraigua	p ə ɾ 'a j ɣ w ə
+desmai	d ə z m 'a j
+L'aire	l 'a j ɾ ə
+xai	ʃ 'a j
+tulaines	t u l 'a j n ə s
+rails	r 'a j l s
+naips	n 'a j p s
+mosaic	m u z 'a j k
+l'algebraic	l ə l ʒ ə β ɾ 'a j k
+l'aguait	l ə ɣ w 'a j t
+l'Espai	l ə s p 'a j
+guacamais	g w ə k ə m 'a j s
+flaire	f l 'a j ɾ ə
+esglai	ə z ɣ l 'a j
+escaigui	ə s k 'a j ɣ i
+deltaic	d ə l t 'a j k
+d'esplai	d ə s p l 'a j
+d'espais	d ə s p 'a j s
+coloraines	k u l u ɾ 'a j n ə s
+carai	k ə ɾ 'a j
+caic	k 'a j k
+blocaires	b l u k 'a j ɾ ə s
+algebraic	ə l ʒ ə β ɾ 'a j k
+aida	'a j ð ə
+Lovaina	l u β 'a j n ə
+L'espai	l ə s p 'a j
+Jamaica	ʒ ə m 'a j k ə
+Floraina	f l u ɾ 'a j n ə
+Aigües	'a j ɣ w ə s
+Ai	'a j
+alzinoia	ə l z i n 'ɔ j ə
+amploia	ə m p l 'ɔ j ə
+Anoia	ə n 'ɔ j ə
+asteroide	ə s t ə ɾ 'ɔ j ð ə
+benzoica	b ə n z 'ɔ j k ə
+bioflavonoide	b i u f l ə β u n 'ɔ j ð ə
+birimboies	b i ɾ i m b 'ɔ j ə s
+boia	b 'ɔ j ə
+boina	b 'ɔ j n ə
+boira	b 'ɔ j ɾ ə
+boires	b 'ɔ j ɾ ə s
+broida	b ɾ 'ɔ j ð ə
+broides	b ɾ 'ɔ j ð ə s
+carantoines	k ə ɾ ə n t 'ɔ j n ə s
+claraboia	k l ə ɾ ə β 'ɔ j ə
+cofoi	k u f 'ɔ j
+coit	k 'ɔ j t
+comboi	k u m b 'ɔ j
+corticoide	k u r t i k 'ɔ j ð ə
+cuboide	k u β 'ɔ j ð ə
+Eloi	ə l 'ɔ j
+escafoide	ə s k ə f 'ɔ j ð ə
+escafoides	ə s k ə f 'ɔ j ð ə s
+foia	f 'ɔ j ə
+heroi	ə ɾ 'ɔ j
+heroic	ə ɾ 'ɔ j k
+joia	ʒ 'ɔ j ə
+limfoide	l i m f 'ɔ j ð ə
+limfoides	l i m f 'ɔ j ð ə s
+llampoina	ʎ ə m p 'ɔ j n ə
+noi	n 'ɔ j
+noia	n 'ɔ j ə
+nois	n 'ɔ j s
+noyes	n 'ɔ j ə s
+oi	'ɔ j
+paranoia	p ə ɾ ə n 'ɔ j ə
+paranoic	p ə ɾ ə n 'ɔ j k
+paranoide	p ə ɾ ə n 'ɔ j ð ə
+roina	r 'ɔ j n ə
+tabloide	t ə b b l 'ɔ j ð ə
+tifoide	t i f 'ɔ j ð ə
+tramoia	t ɾ ə m 'ɔ j ə
+trapezoide	t ɾ ə p ə z 'ɔ j ð ə
+Troia	t ɾ 'ɔ j ə
+troica	t ɾ 'ɔ j k ə
+xicoia	ʃ i k 'ɔ j ə
+xicoira	ʃ i k 'ɔ j ɾ ə
+xirimoia	ʃ i ɾ i m 'ɔ j ə
+noi	n 'ɔ j
+nois	n 'ɔ j s
+Boi	b 'ɔ j
+herois	ə ɾ 'ɔ j s
+gasoil	g ə z 'ɔ j l
+calçoina	k ə l s 'ɔ j n ə
+oi	'ɔ j
+boira	b 'ɔ j ɾ ə
+rampoines	r ə m p 'ɔ j n ə s
+cofoi	k u f 'ɔ j
+boires	b 'ɔ j ɾ ə s
+almoina	ə l m 'ɔ j n ə
+Nois	n 'ɔ j s
+Detroit	d ə t ɾ 'ɔ j t
+Boira	b 'ɔ j ɾ ə
+ei	'e j
+llei	ʎ 'e j
+Lleida	ʎ 'e j ð ə
+lleis	ʎ 'e j s
+rei	r 'e j
+reina	r 'e j n ə
+reis	r 'e j s
+virrei	b i r 'e j
+llei	ʎ 'e j
+Lleida	ʎ 'e j ð ə
+lleis	ʎ 'e j s
+Llei	ʎ 'e j
+virrei	b i r 'e j
+Virrei	b i r 'e j
+aiguacuit	ə j ɣ w ə k 'u j t
+alcoià	ə l k u j 'a
+Alcoià	ə l k u j 'a
+avui	ə β 'u j
+bescuit	b ə s k 'u j t
+boicotejada	b u j k u t ə ʒ 'a ð ə
+boicotejades	b u j k u t ə ʒ 'a ð ə s
+boicotejar	b u j k u t ə ʒ 'a
+boicotejat	b u j k u t ə ʒ 'a t
+boicotejats	b u j k u t ə ʒ 'a t s
+boirina	b u j ɾ 'i n ə
+boirós	b u j ɾ 'o s
+boirum	b u j ɾ 'u m
+buidada	b u j ð 'a ð ə
+buidades	b u j ð 'a ð ə s
+buidar	b u j ð 'a
+buidat	b u j ð 'a t
+buidatge	b u j ð 'a d ʒ ə
+buidats	b u j ð 'a t s
+buidesa	b u j ð 'ɛ z ə
+buidi	b 'u j ð i
+buidor	b u j ð 'o
+buina	b 'u j n ə
+buines	b 'u j n ə s
+buit	b 'u j t
+capvuitada	k ə b b u j t 'a ð ə
+circuit	s i r k 'u j t
+circuits	s i r k 'u j t s
+coiot	k u j 'ɔ t
+cuida	k 'u j ð ə
+cuidada	k u j ð 'a ð ə
+cuidades	k u j ð 'a ð ə s
+cuidar	k u j ð 'a
+cuidarem	k u j ð ə ɾ 'ɛ m
+cuidares	k u j ð 'a ɾ ə s
+cuidaria	k u j ð ə ɾ 'i ə
+cuidat	k u j ð 'a t
+cuidats	k u j ð 'a t s
+cuidava	k u j ð 'a β ə
+cuidem	k u j ð 'ɛ m
+cuides	k 'u j ð ə s
+cuido	k 'u j ð u
+cuina	k 'u j n ə
+cuinada	k u j n 'a ð ə
+cuinades	k u j n 'a ð ə s
+cuinar	k u j n 'a
+cuinat	k u j n 'a t
+cuinats	k u j n 'a t s
+cuiner	k u j n 'e
+cuir	k 'u j r
+cuirassa	k u j ɾ 'a s ə
+cuirassar	k u j ɾ ə s 'a
+cuirassat	k u j ɾ ə s 'a t
+cuit	k 'u j t
+cuitada	k u j t 'a ð ə
+cuitades	k u j t 'a ð ə s
+cuitar	k u j t 'a
+cuitat	k u j t 'a t
+cuitats	k u j t 'a t s
+cuito	k 'u j t u
+cuits	k 'u j t s
+descuit	d ə s k 'u j t
+despuis	d ə s p 'u j s
+divuit	d i β 'u j t
+druida	d ɾ 'u j ð ə
+duit	d 'u j t
+emboirar	ə m b u j ɾ 'a
+fluid	f l 'u j t
+fruit	f ɾ 'u j t
+fruita	f ɾ 'u j t ə
+fui	f 'u j
+fuita	f 'u j t ə
+joier	ʒ u j 'e
+joieria	ʒ u j ə ɾ 'i ə
+joiós	ʒ u j 'o s
+lluita	ʎ 'u j t ə
+lluitada	ʎ u j t 'a ð ə
+lluitades	ʎ u j t 'a ð ə s
+lluitador	ʎ u j t ə ð 'o
+lluitant	ʎ u j t 'a n
+lluitar	ʎ u j t 'a
+lluitat	ʎ u j t 'a t
+lluitats	ʎ u j t 'a t s
+Moià	m u j 'a
+Moianès	m u j ə n 'ɛ s
+moianès	m u j ə n 'ɛ s
+Moisès	m u j z 'ɛ s
+noieta	n u j 'ɛ t ə
+oidà	u j ð 'a
+recuit	r ə k 'u j t
+troià	t ɾ u j 'a
+truita	t ɾ 'u j t ə
+tuit	t 'u j t
+tuitejada	t u j t ə ʒ 'a ð ə
+tuitejades	t u j t ə ʒ 'a ð ə s
+tuitejar	t u j t ə ʒ 'a
+tuitejat	t u j t ə ʒ 'a t
+tuitejats	t u j t ə ʒ 'a t s
+usdefruit	u z ð ə f ɾ 'u j t
+voivoda	b u j β 'ɔ ð ə
+voivodat	b u j β u ð 'a t
+vuit	b 'u j t
+vuitada	b u j t 'a ð ə
+vuitanta	b u j t 'a n t ə
+vuitè	b u j t 'ɛ
+vuit	b 'u j t
+avui	ə β 'u j
+Avui	ə β 'u j
+cuina	k 'u j n ə
+divuit	d i β 'u j t
+buit	b 'u j t
+vuitanta	b u j t 'a n t ə
+lluitar	ʎ u j t 'a
+buida	b 'u j ð ə
+fruits	f ɾ 'u j t s
+vuitè	b u j t 'ɛ
+circuit	s i r k 'u j t
+buits	b 'u j t s
+lluitava	ʎ u j t 'a β ə
+d'avui	d ə β 'u j
+curtcircuit	k u r t s i r k 'u j t
+lluitador	ʎ u j t ə ð 'o
+cuidar	k u j ð 'a
+arruinats	ə r u j n 'a t s
+Ui	'u j
+vuitens	b u j t 'ɛ n s
+vuitena	b u j t 'ɛ n ə
+fruit	f ɾ 'u j t
+divuitè	d i β u j t 'ɛ
+divuitena	d i β u j t 'ɛ n ə
+cuirassada	k u j ɾ ə s 'a ð ə
+cuinés	k u j n 'e s
+cuinera	k u j n 'e ɾ ə
+cuinaria	k u j n ə ɾ 'i ə
+cuinar	k u j n 'a
+cuidava	k u j ð 'a β ə
+cuidant	k u j ð 'a n
+cuida	k 'u j ð ə
+buidor	b u j ð 'o
+buidar-la	b u j ð 'a r l ə
+boirum	b u j ɾ 'u m
+boirina	b u j ɾ 'i n ə
+afruitat	ə f ɾ u j t 'a t
+D'avui	d ə β 'u j
+Cuina	k 'u j n ə
+
+

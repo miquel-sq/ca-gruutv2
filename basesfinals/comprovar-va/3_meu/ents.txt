@@ -1,0 +1,120 @@
+absents	a p s 'e n s
+adolescents	a ð o l e s 'e n s
+agents	a d ʒ 'e n s
+arguments	a ɾ ɣ u m 'e n s
+armaments	a ɾ m a m 'e n s
+comandaments	k o m a n d a m 'e n s
+compartiments	k o m p a ɾ t i m 'e n s
+comportaments	k o m p o ɾ t a m 'e n s
+constituents	k o n s t i t u 'e n s
+continents	k o n t i n 'e n s
+contingents	k o n t i n d ʒ 'e n s
+contribuents	k o n t ɾ i β u 'e n s
+corrents	k o r 'e n s
+corresponents	k o r e s p o n 'e n s
+fluorescents	f l u o ɾ e s 'e n s
+insolents	i n s o l 'e n s
+insurgents	i n s u ɾ d ʒ 'e n s
+presidents	p ɾ e z i ð 'e n s
+diferents	d i f e ɾ 'e n s
+moments	m o m 'e n s
+documents	d o k u m 'e n s
+elements	e l e m 'e n s
+sentiments	s e n t i m 'e n s
+moviments	m o v i m 'e n s
+dents	d 'e n s
+corresponents	k o r e s p o n 'e n s
+agents	a d ʒ 'e n s
+aliments	a l i m 'e n s
+pensaments	p e n s a m 'e n s
+recents	r e s 'e n s
+monuments	m o n u m 'e n s
+transparents	t ɾ a n s p a ɾ 'e n s
+intents	i n t 'e n s
+dolents	d o l 'e n s
+corrents	k o r 'e n s
+contribuents	k o n t ɾ i β u 'e n s
+atents	a t 'e n s
+segments	s e g m 'e n s
+sediments	s e ð i m 'e n s
+presents	p ɾ e z 'e n s
+jaciments	d ʒ a s i m 'e n s
+fragments	f ɾ a g m 'e n s
+establiments	a s t a β l i m 'e n s
+esdeveniments	a z ð e v e n i m 'e n s
+coneixements	k o n e j ʃ e m 'e n s
+compartiments	k o m p a ɾ t i m 'e n s
+aprenents	a p ɾ e n 'e n s
+ajuntaments	a d ʒ u n t a m 'e n s
+vents	v 'e n s
+sorprenents	s o ɾ p ɾ e n 'e n s
+independents	i n d e p e n d 'e n s
+existents	e g z i s t 'e n s
+estaments	a s t a m 'e n s
+encreuaments	a ŋ k ɾ e w a m 'e n s
+dirigents	d i ɾ i d ʒ 'e n s
+accidents	a k s i ð 'e n s
+vigents	v i d ʒ 'e n s
+valents	v a l 'e n s
+urgents	u ɾ d ʒ 'e n s
+tractaments	t ɾ a k t a m 'e n s
+tangents	t a n d ʒ 'e n s
+servents	s e ɾ v 'e n s
+sents	s 'e n s
+referents	r e f e ɾ 'e n s
+recents	r e s 'e n s
+quatrecents	k w a t ɾ e s 'e n s
+punyents	p u ɲ 'e n s
+procedents	p ɾ o s e ð 'e n s
+pretendents	p ɾ e t e n d 'e n s
+plantejaments	p l a n t e d ʒ a m 'e n s
+pertinents	p e ɾ t i n 'e n s
+pertanyents	p e ɾ t a ɲ 'e n s
+permanents	p e ɾ m a n 'e n s
+pendents	p e n d 'e n s
+patiments	p a t i m 'e n s
+pagaments	p a ɣ a m 'e n s
+miraments	m i ɾ a m 'e n s
+ments	m 'e n s
+medicaments	m e ð i k a m 'e n s
+laments	l a m 'e n s
+incoherents	i ŋ k o e ɾ 'e n s
+incidents	i n s i ð 'e n s
+impediments	i m p e ð i m 'e n s
+freqüents	f ɾ e k w 'e n s
+experiments	e k s p e ɾ i m 'e n s
+documents	d o k u m 'e n s
+despreniments	d e s p ɾ e n i m 'e n s
+delinqüents	d e l i ŋ k w 'e n s
+corresponents	k o r e s p o n 'e n s
+conseqüents	k o n s e k w 'e n s
+complements	k o m p l e m 'e n s
+coincidents	k o i n s i ð 'e n s
+coherents	k o e ɾ 'e n s
+cents	s 'e n s
+avorriments	a v o r i m 'e n s
+assistents	a s i s t 'e n s
+arguments	a ɾ ɣ u m 'e n s
+apropaments	a p ɾ o p a m 'e n s
+antecedents	a n t e s e ð 'e n s
+afloraments	a f l o ɾ a m 'e n s
+abocaments	a β o k a m 'e n s
+Esdeveniments	a z ð e v e n i m 'e n s
+Elements	e l e m 'e n s
+Documents	d o k u m 'e n s
+Desplaçaments	d e s p l a s a m 'e n s
+Coneixements	k o n e j ʃ e m 'e n s
+Complements	k o m p l e m 'e n s
+vinents	v i n 'e n s
+remordiments	r e m o ɾ ð i m 'e n s
+procediments	p ɾ o s e ð i m 'e n s
+potents	p o t 'e n s
+lents	l 'e n s
+insolvents	i n s o l v 'e n s
+increments	i ŋ k ɾ e m 'e n s
+contundents	k o n t u n d 'e n s
+contents	k o n t 'e n s
+començaments	k o m e n s a m 'e n s
+combatents	k o m b a t 'e n s
+assentaments	a s e n t a m 'e n s
+adolescents	a ð o l e s 'e n s

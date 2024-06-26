@@ -1,0 +1,103 @@
+9}n|'ɔ|w|s|'e|n|s 1}'u
+9}n|'ɔ|w|s|'e|n|s 2}d|'o|s
+9}n|'ɔ|w|s|'e|n|s 3}t|ɾ|'e|s
+9}n|'ɔ|w|s|'e|n|s 4}k|w|'a|t|ɾ|e
+9}n|'ɔ|w|s|'e|n|s 5}s|'i|ŋ
+9}n|'ɔ|w|s|'e|n|s 6}s|'i|s
+9}n|'ɔ|w|s|'e|n|s 7}s|'ɛ|t
+9}n|'ɔ|w|s|'e|n|s 8}b|'u|j|t
+9}n|'ɔ|w|s|'e|n|s 9}n|'ɔ|w
+9}n|'ɔ|w|s|'e|n|s 10}d|'ɛ|w
+9}n|'ɔ|w|s|'e|n|s 11}'o|n|z|e
+9}n|'ɔ|w|s|'e|n|s 12}d|'o|d|z|e
+9}n|'ɔ|w|s|'e|n|s 13}t|ɾ|'e|d|z|e
+9}n|'ɔ|w|s|'e|n|s 14}k|a|t|'o|r|z|e
+9}n|'ɔ|w|s|'e|n|s 15}k|'i|n|z|e
+9}n|'ɔ|w|s|'e|n|s 16}s|'e|d|z|e
+9}n|'ɔ|w|s|'e|n|s 17}d|i|s|'ɛ|t
+9}n|'ɔ|w|s|'e|n|s 18}d|i|b|'u|j|t
+9}n|'ɔ|w|s|'e|n|s 19}d|i|n|'ɔ|w
+9}n|'ɔ|w|s|'e|n|s 20}b|'i|n
+9}n|'ɔ|w|s|'e|n|s 2}b|'i|n|t|i 1}'u
+9}n|'ɔ|w|s|'e|n|s 2}b|'i|n|t|i 2}d|'o|s
+9}n|'ɔ|w|s|'e|n|s 2}b|'i|n|t|i 3}t|ɾ|'e|s
+9}n|'ɔ|w|s|'e|n|s 2}b|'i|n|t|i 4}k|w|'a|t|ɾ|e
+9}n|'ɔ|w|s|'e|n|s 2}b|'i|n|t|i 5}s|'i|ŋ
+9}n|'ɔ|w|s|'e|n|s 2}b|'i|n|t|i 6}s|'i|s
+9}n|'ɔ|w|s|'e|n|s 2}b|'i|n|t|i 7}s|'ɛ|t
+9}n|'ɔ|w|s|'e|n|s 2}b|'i|n|t|i 8}b|'u|j|t	
+9}n|'ɔ|w|s|'e|n|s 2}b|'i|n|t|i 9}n|'ɔ|w
+9}n|'ɔ|w|s|'e|n|s 30}t|ɾ|'e|n|t|a
+9}n|'ɔ|w|s|'e|n|s 3}t|ɾ|'e|n|t|a 1}'u
+9}n|'ɔ|w|s|'e|n|s 3}t|ɾ|'e|n|t|a 2}d|'o|s
+9}n|'ɔ|w|s|'e|n|s 3}t|ɾ|'e|n|t|a 3}t|ɾ|'e|s
+9}n|'ɔ|w|s|'e|n|s 3}t|ɾ|'e|n|t|a 4}k|w|'a|t|ɾ|e
+9}n|'ɔ|w|s|'e|n|s 3}t|ɾ|'e|n|t|a 5}s|'i|ŋ
+9}n|'ɔ|w|s|'e|n|s 3}t|ɾ|'e|n|t|a 6}s|'i|s
+9}n|'ɔ|w|s|'e|n|s 3}t|ɾ|'e|n|t|a 7}s|'ɛ|t
+9}n|'ɔ|w|s|'e|n|s 3}t|ɾ|'e|n|t|a 8}b|'u|j|t
+9}n|'ɔ|w|s|'e|n|s 3}t|ɾ|'e|n|t|a 9}n|'ɔ|w
+9}n|'ɔ|w|s|'e|n|s 40}k|w|a|ɾ|'a|n|t|a
+9}n|'ɔ|w|s|'e|n|s 4}k|w|a|ɾ|'a|n|t|a 1}'u
+9}n|'ɔ|w|s|'e|n|s 4}k|w|a|ɾ|'a|n|t|a 2}d|'o|s
+9}n|'ɔ|w|s|'e|n|s 4}k|w|a|ɾ|'a|n|t|a 3}t|ɾ|'e|s
+9}n|'ɔ|w|s|'e|n|s 4}k|w|a|ɾ|'a|n|t|a 4}k|w|'a|t|ɾ|e
+9}n|'ɔ|w|s|'e|n|s 4}k|w|a|ɾ|'a|n|t|a 5}s|'i|ŋ
+9}n|'ɔ|w|s|'e|n|s 4}k|w|a|ɾ|'a|n|t|a 6}s|'i|s
+9}n|'ɔ|w|s|'e|n|s 4}k|w|a|ɾ|'a|n|t|a 7}s|'ɛ|t
+9}n|'ɔ|w|s|'e|n|s 4}k|w|a|ɾ|'a|n|t|a 8}b|'u|j|t
+9}n|'ɔ|w|s|'e|n|s 4}k|w|a|ɾ|'a|n|t|a 9}n|'ɔ|w
+9}n|'ɔ|w|s|'e|n|s 50}s|i|ŋ|k|w|'a|n|t|a
+9}n|'ɔ|w|s|'e|n|s 5}s|i|ŋ|k|w|'a|n|t|a 1}'u
+9}n|'ɔ|w|s|'e|n|s 5}s|i|ŋ|k|w|'a|n|t|a 2}d|'o|s
+9}n|'ɔ|w|s|'e|n|s 5}s|i|ŋ|k|w|'a|n|t|a 3}t|ɾ|'e|s
+9}n|'ɔ|w|s|'e|n|s 5}s|i|ŋ|k|w|'a|n|t|a 4}k|w|'a|t|ɾ|e
+9}n|'ɔ|w|s|'e|n|s 5}s|i|ŋ|k|w|'a|n|t|a 5}s|'i|ŋ
+9}n|'ɔ|w|s|'e|n|s 5}s|i|ŋ|k|w|'a|n|t|a 6}s|'i|s
+9}n|'ɔ|w|s|'e|n|s 5}s|i|ŋ|k|w|'a|n|t|a 7}s|'ɛ|t
+9}n|'ɔ|w|s|'e|n|s 5}s|i|ŋ|k|w|'a|n|t|a 8}b|'u|j|t
+9}n|'ɔ|w|s|'e|n|s 5}s|i|ŋ|k|w|'a|n|t|a 9}n|'ɔ|w
+9}n|'ɔ|w|s|'e|n|s 60}s|e|j|ʃ|'a|n|t|a
+9}n|'ɔ|w|s|'e|n|s 6}s|e|j|ʃ|'a|n|t|a 1}'u
+9}n|'ɔ|w|s|'e|n|s 6}s|e|j|ʃ|'a|n|t|a 2}d|'o|s
+9}n|'ɔ|w|s|'e|n|s 6}s|e|j|ʃ|'a|n|t|a 3}t|ɾ|'e|s
+9}n|'ɔ|w|s|'e|n|s 6}s|e|j|ʃ|'a|n|t|a 4}k|w|'a|t|ɾ|e
+9}n|'ɔ|w|s|'e|n|s 6}s|e|j|ʃ|'a|n|t|a 5}s|'i|ŋ
+9}n|'ɔ|w|s|'e|n|s 6}s|e|j|ʃ|'a|n|t|a 6}s|'i|s
+9}n|'ɔ|w|s|'e|n|s 6}s|e|j|ʃ|'a|n|t|a 7}s|'ɛ|t
+9}n|'ɔ|w|s|'e|n|s 6}s|e|j|ʃ|'a|n|t|a 8}b|'u|j|t
+9}n|'ɔ|w|s|'e|n|s 6}s|e|j|ʃ|'a|n|t|a 9}n|'ɔ|w
+9}n|'ɔ|w|s|'e|n|s 70}s|e|t|'a|n|t|a
+9}n|'ɔ|w|s|'e|n|s 7}s|e|t|'a|n|t|a 1}'u
+9}n|'ɔ|w|s|'e|n|s 7}s|e|t|'a|n|t|a 2}d|'o|s
+9}n|'ɔ|w|s|'e|n|s 7}s|e|t|'a|n|t|a 3}t|ɾ|'e|s
+9}n|'ɔ|w|s|'e|n|s 7}s|e|t|'a|n|t|a 4}k|w|'a|t|ɾ|e
+9}n|'ɔ|w|s|'e|n|s 7}s|e|t|'a|n|t|a 5}s|'i|ŋ
+9}n|'ɔ|w|s|'e|n|s 7}s|e|t|'a|n|t|a 6}s|'i|s
+9}n|'ɔ|w|s|'e|n|s 7}s|e|t|'a|n|t|a 7}s|'ɛ|t
+9}n|'ɔ|w|s|'e|n|s 7}s|e|t|'a|n|t|a 8}b|'u|j|t
+9}n|'ɔ|w|s|'e|n|s 7}s|e|t|'a|n|t|a 9}n|'ɔ|w
+9}n|'ɔ|w|s|'e|n|s 80}b|u|j|t|'a|n|t|a
+9}n|'ɔ|w|s|'e|n|s 8}b|u|j|t|'a|n|t|a 1}'u
+9}n|'ɔ|w|s|'e|n|s 8}b|u|j|t|'a|n|t|a 2}d|'o|s
+9}n|'ɔ|w|s|'e|n|s 8}b|u|j|t|'a|n|t|a 3}t|ɾ|'e|s
+9}n|'ɔ|w|s|'e|n|s 8}b|u|j|t|'a|n|t|a 4}k|w|'a|t|ɾ|e
+9}n|'ɔ|w|s|'e|n|s 8}b|u|j|t|'a|n|t|a 5}s|'i|ŋ
+9}n|'ɔ|w|s|'e|n|s 8}b|u|j|t|'a|n|t|a 6}s|'i|s
+9}n|'ɔ|w|s|'e|n|s 8}b|u|j|t|'a|n|t|a 7}s|'ɛ|t
+9}n|'ɔ|w|s|'e|n|s 8}b|u|j|t|'a|n|t|a 8}b|'u|j|t
+9}n|'ɔ|w|s|'e|n|s 8}b|u|j|t|'a|n|t|a 9}n|'ɔ|w
+9}n|'ɔ|w|s|'e|n|s 90}n|o|ɾ|'a|n|t|a
+9}n|'ɔ|w|s|'e|n|s 9}n|o|ɾ|'a|n|t|a 1}'u
+9}n|'ɔ|w|s|'e|n|s 9}n|o|ɾ|'a|n|t|a 2}d|'o|s
+9}n|'ɔ|w|s|'e|n|s 9}n|o|ɾ|'a|n|t|a 3}t|ɾ|'e|s
+9}n|'ɔ|w|s|'e|n|s 9}n|o|ɾ|'a|n|t|a 4}k|w|'a|t|ɾ|e
+9}n|'ɔ|w|s|'e|n|s 9}n|o|ɾ|'a|n|t|a 5}s|'i|ŋ
+9}n|'ɔ|w|s|'e|n|s 9}n|o|ɾ|'a|n|t|a 6}s|'i|s
+9}n|'ɔ|w|s|'e|n|s 9}n|o|ɾ|'a|n|t|a 7}s|'ɛ|t
+9}n|'ɔ|w|s|'e|n|s 9}n|o|ɾ|'a|n|t|a 8}b|'u|j|t
+9}n|'ɔ|w|s|'e|n|s 9}n|o|ɾ|'a|n|t|a 9}n|'ɔ|w
+9}n|'ɔ|w|s|'e|n|s 
+9}n|'ɔ|w|s|'e|n|s 
+9}n|'ɔ|w|s|'e|n|s 
+9}n|'ɔ|w|s|'e|n|s 

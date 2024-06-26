@@ -1,0 +1,179 @@
+au	'a w
+eu 	'ɛ w
+iu 	i 'w
+ou 	'o w}
+ai	'a j
+ei 	'ɛ j
+oi	'o j
+ui	'u j
+gua 	g w 'a
+gue	g 'ɛ
+gui	g 'i
+guo	g w 'o
+qua	k w 'a
+que 	k ə
+qui	k 'i
+quo	k w'o
+güe	g w 'ɛ
+güi	g w 'i
+qüe	k w 'ɛ
+qüi	k w 'i
+ard	'a r t
+erd 	'ɛ r t
+ird 	'i r t
+ord	'o r t
+urd	'u r t
+and 	'a n
+end 	'ɛ n
+ind	'i n
+ond	'o n
+und	'u n
+arg	'a r k
+erg	'ɛ r k
+irg	'i r k
+org	'o r k
+urg	'u r k
+arb	'a ɾ p
+erb	'ɛ r p
+irb	'i r p
+orb	'o r p
+urb	'u r p
+enc     'ɛ ŋ
+encs	'ɛ ŋ s
+anc	'a ŋ
+ancs	'a ŋ s
+banc	b 'a ŋ
+boncs	b 'o ŋ s
+bonc	b 'o ŋ
+binc	b 'i ŋ
+bincs	b 'i ŋ s
+banc	b 'a ŋ s
+clou	k l 'ɔ w"
+pou	p 'o w
+ou	'o w
+vou	b 'ɔ w
+bou	b 'ɔ w
+llou	ʎ 'ɔ w
+rou	r 'ɔ w
+arrou	ə r 'ɔ w
+tou	t 'o w
+trou	t ɾ 'ɔ w
+dou	d 'ɔ w
+adou	ə ð 'ɔ w
+edou	ə ð 'ɔ w
+idou	i ð 'ɔ w
+clou	k l 'ɔ w
+fou	f 'ɔ w
+sou	s 'ɔ w
+plou	p l 'ɔ w
+assou	ə s 'ɔ w
+quota	k w 'ɔ t ə
+quora	k w 'ɔ ɾ ə
+quol	k w 'ɔ l
+quot	k w 'ɔ t
+aquo	'a k w o
+iquo	'i k w o
+aquoses	ə k w 'o z ə s
+aquosos	ə k w 'o z u s
+equòrum	ə k w 'ɔ ɾ u m
+quòndam	k w 'ɔ n d a m
+quòniam	k w 'ɔ n i a m
+sequoia	s ə k w 'ɔ j ə
+oita	'ɔ j t ə
+oitar	u j t 'a
+uita	u 'j t ə
+uitar	u j t 'a
+perdiu	p ə r d 'i w
+oica	'ɔ j k ə
+oicar	u j k 'a
+uica	u 'j k ə
+adiu	ə ð 'i w
+aviu	ə β 'i w
+ciu	s 'i w
+niu	n 'i w
+siu	s 'i w
+pand	p 'a n
+pend	p 'e n
+pind	p 'i n
+pond	p 'o n
+pund	p 'u n
+tand	t 'a n
+tend	t 'e n
+tind	t 'i n
+tond	t 'o n
+tund	t 'u n
+arand	ə ɾ 'a n
+arend	ə ɾ 'e n
+arind	ə ɾ 'i n
+arond	ə ɾ 'o n
+arund	ə ɾ 'u n
+trand	t ɾ 'a n
+trend	t ɾ 'e n
+trind 	t ɾ 'i n
+trond	t ɾ 'o n
+trund	t ɾ 'u n
+tarb	t 'a ɾ p}
+terb	t 'ɛ r p}
+tirb 	t 'i r p}
+torb	t 'o r p}
+turb	t 'u r p}
+carb	k 'a ɾ p
+cerb	s 'ɛ r p}
+cirb	s 'i r p}
+corb	k 'o r p}
+curb	k 'u r p}
+afga	'a v ɣ ə
+nefga	n 'ɛ v ɣ ə
+ofga	'ɔ v ɣ ə
+ofgi	'ɔ v ʒ i
+ifgu	'i v ɣ u
+lofgi	l 'ɔ v ʒ i
+sifgo	s 'i v ɣ u
+sofgol	s u v ɣ 'o l
+sifgana	s i v ɣ 'a n ə
+pot	p 'ɔ t"
+cot	k 'ɔ t
+lot	l 'ɔ t
+iot	j 'ɔ t
+dotot	d u t 'ɔ t
+errot	ə r 'ɔ t
+casota	k ə z 'ɔ t ə
+lotota	l u t 'ɔ t ə
+pilota	p i l 'ɔ t ə
+retota	r ə t 'ɔ t ə
+eota	ə 'ɔ t ə
+dota	d 'ɔ t ə
+pota	p 'ɔ t ə
+prota	p ɾ 'ɔ t ə
+ot	'ɔ t
+crot	k ɾ 'ɔ t
+lot	l 'ɔ t
+llot	ʎ 'ɔ t
+got	g 'ɔ t
+jot	ʒ 'ɔ t
+diot	d i 'ɔ t
+indiot	i n d i 'ɔ t
+desot	d ə z 'ɔ t
+casot	k ə z 'ɔ t
+finestrot	f i n ə s t ɾ 'ɔ t
+finestrota	f i n ə s t ɾ 'ɔ t ə
+casota	k ə z 'ɔ t ə
+sesota	s ə z 'ɔ t ə
+sessota	s ə s 'ɔ t ə
+senota	s ə n 'ɔ t ə
+retota	r ə t 'ɔ t ə
+bretota	b ɾ ə t 'ɔ t ə
+fetota	f ə t 'ɔ t ə
+botellota	b u t ə ʎ 'ɔ t ə
+taulota	t ə w l 'ɔ t ə
+mobilot	m u β i l 'ɔ t
+cadirota	k ə ð i ɾ 'ɔ t ə
+terrot	t ə r 'ɔ t
+sostrot	s u s t ɾ 'ɔ t
+celot	s ə l 'ɔ t
+armariot	ə r m ə ɾ i 'ɔ t
+sabatota	s ə β ə t 'ɔ t ə
+sadatot	s ə ð ə t 'ɔ t
+detot	d ə t 'ɔ t
+
+
